@@ -1,0 +1,825 @@
+{
+  "id": "core-scene-vocabulary-120",
+  "kind": "vocabulary",
+  "title": "全场景核心词 120",
+  "level": "A2-B2",
+  "sources": [
+    "Manual curation; word-family inspiration can be checked against Open English WordNet and Princeton WordNet."
+  ],
+  "units": [
+    {
+      "id": "core-vocab-001",
+      "word": "available",
+      "partOfSpeech": "adj.",
+      "meaningZh": "可用的；有空的",
+      "exampleEn": "Is there a table available tonight?",
+      "exampleZh": "今晚有空桌吗？",
+      "family": [
+        "availability",
+        "unavailable"
+      ],
+      "collocations": [
+        "available time",
+        "available option"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：可用的；有空的",
+        "answer": "available"
+      }
+    },
+    {
+      "id": "core-vocab-002",
+      "word": "confirm",
+      "partOfSpeech": "v.",
+      "meaningZh": "确认",
+      "exampleEn": "Please confirm the appointment time.",
+      "exampleZh": "请确认预约时间。",
+      "family": [
+        "confirmation",
+        "confirmed"
+      ],
+      "collocations": [
+        "confirm details",
+        "confirm a booking"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：确认",
+        "answer": "confirm"
+      }
+    },
+    {
+      "id": "core-vocab-003",
+      "word": "request",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "请求；要求",
+      "exampleEn": "I would like to request a refund.",
+      "exampleZh": "我想申请退款。",
+      "family": [
+        "requested",
+        "requester"
+      ],
+      "collocations": [
+        "make a request",
+        "refund request"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：请求；要求",
+        "answer": "request"
+      }
+    },
+    {
+      "id": "core-vocab-004",
+      "word": "recommend",
+      "partOfSpeech": "v.",
+      "meaningZh": "推荐；建议",
+      "exampleEn": "Which route do you recommend?",
+      "exampleZh": "你推荐哪条路线？",
+      "family": [
+        "recommendation",
+        "recommended"
+      ],
+      "collocations": [
+        "recommend a route",
+        "highly recommend"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：推荐；建议",
+        "answer": "recommend"
+      }
+    },
+    {
+      "id": "core-vocab-005",
+      "word": "arrange",
+      "partOfSpeech": "v.",
+      "meaningZh": "安排",
+      "exampleEn": "Could you arrange a replacement?",
+      "exampleZh": "你能安排补发吗？",
+      "family": [
+        "arrangement",
+        "arranged"
+      ],
+      "collocations": [
+        "arrange delivery",
+        "arrange a meeting"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：安排",
+        "answer": "arrange"
+      }
+    },
+    {
+      "id": "core-vocab-006",
+      "word": "issue",
+      "partOfSpeech": "n.",
+      "meaningZh": "问题",
+      "exampleEn": "There is an issue with my order.",
+      "exampleZh": "我的订单有个问题。",
+      "family": [
+        "problem",
+        "concern"
+      ],
+      "collocations": [
+        "technical issue",
+        "quality issue"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：问题",
+        "answer": "issue"
+      }
+    },
+    {
+      "id": "core-vocab-007",
+      "word": "refund",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "退款",
+      "exampleEn": "When will the refund be processed?",
+      "exampleZh": "退款什么时候处理？",
+      "family": [
+        "refundable",
+        "refunded"
+      ],
+      "collocations": [
+        "get a refund",
+        "process a refund"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：退款",
+        "answer": "refund"
+      }
+    },
+    {
+      "id": "core-vocab-008",
+      "word": "replacement",
+      "partOfSpeech": "n.",
+      "meaningZh": "替换品；补发品",
+      "exampleEn": "Could you send a replacement?",
+      "exampleZh": "你能补发一个吗？",
+      "family": [
+        "replace",
+        "replaced"
+      ],
+      "collocations": [
+        "send a replacement",
+        "replacement part"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：替换品；补发品",
+        "answer": "replacement"
+      }
+    },
+    {
+      "id": "core-vocab-009",
+      "word": "delay",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "延误；推迟",
+      "exampleEn": "Has the flight been delayed?",
+      "exampleZh": "航班延误了吗？",
+      "family": [
+        "delayed",
+        "delaying"
+      ],
+      "collocations": [
+        "flight delay",
+        "delayed delivery"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：延误；推迟",
+        "answer": "delay"
+      }
+    },
+    {
+      "id": "core-vocab-010",
+      "word": "destination",
+      "partOfSpeech": "n.",
+      "meaningZh": "目的地",
+      "exampleEn": "What is your final destination?",
+      "exampleZh": "你的最终目的地是哪里？",
+      "family": [
+        "destined"
+      ],
+      "collocations": [
+        "travel destination",
+        "final destination"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：目的地",
+        "answer": "destination"
+      }
+    },
+    {
+      "id": "core-vocab-011",
+      "word": "downtown",
+      "partOfSpeech": "n./adv.",
+      "meaningZh": "市中心",
+      "exampleEn": "Which line goes downtown?",
+      "exampleZh": "哪条线去市中心？",
+      "family": [
+        "city center"
+      ],
+      "collocations": [
+        "go downtown",
+        "downtown area"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：市中心",
+        "answer": "downtown"
+      }
+    },
+    {
+      "id": "core-vocab-012",
+      "word": "transfer",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "换乘；转移",
+      "exampleEn": "Do I need to transfer?",
+      "exampleZh": "我需要换乘吗？",
+      "family": [
+        "transferred"
+      ],
+      "collocations": [
+        "transfer station",
+        "bank transfer"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：换乘；转移",
+        "answer": "transfer"
+      }
+    },
+    {
+      "id": "core-vocab-013",
+      "word": "appointment",
+      "partOfSpeech": "n.",
+      "meaningZh": "预约",
+      "exampleEn": "I would like to make an appointment.",
+      "exampleZh": "我想预约一下。",
+      "family": [
+        "appoint",
+        "appointed"
+      ],
+      "collocations": [
+        "doctor appointment",
+        "make an appointment"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：预约",
+        "answer": "appointment"
+      }
+    },
+    {
+      "id": "core-vocab-014",
+      "word": "available",
+      "partOfSpeech": "adj.",
+      "meaningZh": "可预约/有空",
+      "exampleEn": "Do you have any time available?",
+      "exampleZh": "你有空档吗？",
+      "family": [
+        "availability"
+      ],
+      "collocations": [
+        "available slot",
+        "available room"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：可预约/有空",
+        "answer": "available"
+      }
+    },
+    {
+      "id": "core-vocab-015",
+      "word": "priority",
+      "partOfSpeech": "n.",
+      "meaningZh": "优先事项",
+      "exampleEn": "This task is our top priority.",
+      "exampleZh": "这个任务是我们的最高优先级。",
+      "family": [
+        "prioritize"
+      ],
+      "collocations": [
+        "top priority",
+        "priority list"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：优先事项",
+        "answer": "priority"
+      }
+    },
+    {
+      "id": "core-vocab-016",
+      "word": "clarify",
+      "partOfSpeech": "v.",
+      "meaningZh": "澄清；说明",
+      "exampleEn": "Could you clarify the goal?",
+      "exampleZh": "你能澄清一下目标吗？",
+      "family": [
+        "clarification",
+        "clear"
+      ],
+      "collocations": [
+        "clarify requirements",
+        "clarify meaning"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：澄清；说明",
+        "answer": "clarify"
+      }
+    },
+    {
+      "id": "core-vocab-017",
+      "word": "summary",
+      "partOfSpeech": "n.",
+      "meaningZh": "总结",
+      "exampleEn": "I will send a summary after the meeting.",
+      "exampleZh": "会后我会发总结。",
+      "family": [
+        "summarize"
+      ],
+      "collocations": [
+        "meeting summary",
+        "quick summary"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：总结",
+        "answer": "summary"
+      }
+    },
+    {
+      "id": "core-vocab-018",
+      "word": "concern",
+      "partOfSpeech": "n.",
+      "meaningZh": "顾虑；担心",
+      "exampleEn": "I have one concern about the timeline.",
+      "exampleZh": "我对时间安排有一个顾虑。",
+      "family": [
+        "concerned"
+      ],
+      "collocations": [
+        "main concern",
+        "safety concern"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：顾虑；担心",
+        "answer": "concern"
+      }
+    },
+    {
+      "id": "core-vocab-019",
+      "word": "timeline",
+      "partOfSpeech": "n.",
+      "meaningZh": "时间线；时间安排",
+      "exampleEn": "The timeline is too tight.",
+      "exampleZh": "时间安排太紧了。",
+      "family": [
+        "deadline",
+        "schedule"
+      ],
+      "collocations": [
+        "project timeline",
+        "tight timeline"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：时间线；时间安排",
+        "answer": "timeline"
+      }
+    },
+    {
+      "id": "core-vocab-020",
+      "word": "update",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "更新；同步",
+      "exampleEn": "Here is a quick update.",
+      "exampleZh": "这里快速同步一下。",
+      "family": [
+        "updated"
+      ],
+      "collocations": [
+        "status update",
+        "update someone"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：更新；同步",
+        "answer": "update"
+      }
+    },
+    {
+      "id": "core-vocab-021",
+      "word": "policy",
+      "partOfSpeech": "n.",
+      "meaningZh": "政策；规则",
+      "exampleEn": "Could you explain the return policy?",
+      "exampleZh": "你能解释一下退货政策吗？",
+      "family": [
+        "policies"
+      ],
+      "collocations": [
+        "return policy",
+        "company policy"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：政策；规则",
+        "answer": "policy"
+      }
+    },
+    {
+      "id": "core-vocab-022",
+      "word": "proof",
+      "partOfSpeech": "n.",
+      "meaningZh": "证明",
+      "exampleEn": "I can send photos as proof.",
+      "exampleZh": "我可以发照片作为证明。",
+      "family": [
+        "prove"
+      ],
+      "collocations": [
+        "proof of purchase",
+        "proof of issue"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：证明",
+        "answer": "proof"
+      }
+    },
+    {
+      "id": "core-vocab-023",
+      "word": "status",
+      "partOfSpeech": "n.",
+      "meaningZh": "状态",
+      "exampleEn": "Could you check my order status?",
+      "exampleZh": "你能查一下我的订单状态吗？",
+      "family": [
+        "state"
+      ],
+      "collocations": [
+        "order status",
+        "flight status"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：状态",
+        "answer": "status"
+      }
+    },
+    {
+      "id": "core-vocab-024",
+      "word": "solution",
+      "partOfSpeech": "n.",
+      "meaningZh": "解决方案",
+      "exampleEn": "What solution can you offer?",
+      "exampleZh": "你能提供什么解决方案？",
+      "family": [
+        "solve",
+        "resolved"
+      ],
+      "collocations": [
+        "practical solution",
+        "offer a solution"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：解决方案",
+        "answer": "solution"
+      }
+    },
+    {
+      "id": "core-vocab-025",
+      "word": "damaged",
+      "partOfSpeech": "adj.",
+      "meaningZh": "损坏的",
+      "exampleEn": "The item arrived damaged.",
+      "exampleZh": "商品到货时已经损坏。",
+      "family": [
+        "damage"
+      ],
+      "collocations": [
+        "damaged item",
+        "damaged package"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：损坏的",
+        "answer": "damaged"
+      }
+    },
+    {
+      "id": "core-vocab-026",
+      "word": "luggage",
+      "partOfSpeech": "n.",
+      "meaningZh": "行李",
+      "exampleEn": "My luggage has not arrived yet.",
+      "exampleZh": "我的行李还没有到。",
+      "family": [
+        "baggage"
+      ],
+      "collocations": [
+        "checked luggage",
+        "lost luggage"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：行李",
+        "answer": "luggage"
+      }
+    },
+    {
+      "id": "core-vocab-027",
+      "word": "clinic",
+      "partOfSpeech": "n.",
+      "meaningZh": "诊所",
+      "exampleEn": "Is there a clinic nearby?",
+      "exampleZh": "附近有诊所吗？",
+      "family": [
+        "medical center"
+      ],
+      "collocations": [
+        "nearby clinic",
+        "walk-in clinic"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：诊所",
+        "answer": "clinic"
+      }
+    },
+    {
+      "id": "core-vocab-028",
+      "word": "safe",
+      "partOfSpeech": "adj.",
+      "meaningZh": "安全的",
+      "exampleEn": "Is this area safe at night?",
+      "exampleZh": "这个区域晚上安全吗？",
+      "family": [
+        "safety",
+        "unsafe"
+      ],
+      "collocations": [
+        "safe area",
+        "feel safe"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：安全的",
+        "answer": "safe"
+      }
+    },
+    {
+      "id": "core-vocab-029",
+      "word": "receipt",
+      "partOfSpeech": "n.",
+      "meaningZh": "收据",
+      "exampleEn": "Could I get a receipt?",
+      "exampleZh": "可以给我收据吗？",
+      "family": [
+        "receive"
+      ],
+      "collocations": [
+        "paper receipt",
+        "digital receipt"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：收据",
+        "answer": "receipt"
+      }
+    },
+    {
+      "id": "core-vocab-030",
+      "word": "cash",
+      "partOfSpeech": "n.",
+      "meaningZh": "现金",
+      "exampleEn": "Do you only take cash?",
+      "exampleZh": "你们只收现金吗？",
+      "family": [
+        "cashless"
+      ],
+      "collocations": [
+        "pay cash",
+        "cash payment"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：现金",
+        "answer": "cash"
+      }
+    },
+    {
+      "id": "core-vocab-031",
+      "word": "direction",
+      "partOfSpeech": "n.",
+      "meaningZh": "方向",
+      "exampleEn": "Could you point me in the right direction?",
+      "exampleZh": "你能给我指一下正确方向吗？",
+      "family": [
+        "direct"
+      ],
+      "collocations": [
+        "right direction",
+        "clear directions"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：方向",
+        "answer": "direction"
+      }
+    },
+    {
+      "id": "core-vocab-032",
+      "word": "machine",
+      "partOfSpeech": "n.",
+      "meaningZh": "机器",
+      "exampleEn": "I am not sure how to use the machine.",
+      "exampleZh": "我不太确定这个机器怎么用。",
+      "family": [
+        "mechanical"
+      ],
+      "collocations": [
+        "ticket machine",
+        "vending machine"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：机器",
+        "answer": "machine"
+      }
+    },
+    {
+      "id": "core-vocab-033",
+      "word": "deadline",
+      "partOfSpeech": "n.",
+      "meaningZh": "截止日期",
+      "exampleEn": "What is the deadline for this task?",
+      "exampleZh": "这个任务截止日期是什么时候？",
+      "family": [
+        "due date"
+      ],
+      "collocations": [
+        "meet a deadline",
+        "tight deadline"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：截止日期",
+        "answer": "deadline"
+      }
+    },
+    {
+      "id": "core-vocab-034",
+      "word": "owner",
+      "partOfSpeech": "n.",
+      "meaningZh": "负责人；所有者",
+      "exampleEn": "Who is the owner of this task?",
+      "exampleZh": "这个任务负责人是谁？",
+      "family": [
+        "own"
+      ],
+      "collocations": [
+        "task owner",
+        "product owner"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：负责人；所有者",
+        "answer": "owner"
+      }
+    },
+    {
+      "id": "core-vocab-035",
+      "word": "draft",
+      "partOfSpeech": "n.",
+      "meaningZh": "草稿",
+      "exampleEn": "I can prepare the draft by Friday.",
+      "exampleZh": "我可以周五前准备草稿。",
+      "family": [
+        "drafting"
+      ],
+      "collocations": [
+        "first draft",
+        "draft version"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：草稿",
+        "answer": "draft"
+      }
+    },
+    {
+      "id": "core-vocab-036",
+      "word": "feature",
+      "partOfSpeech": "n.",
+      "meaningZh": "功能；特点",
+      "exampleEn": "We should discuss the key features.",
+      "exampleZh": "我们应该讨论关键功能。",
+      "family": [
+        "featured"
+      ],
+      "collocations": [
+        "new feature",
+        "product feature"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：功能；特点",
+        "answer": "feature"
+      }
+    },
+    {
+      "id": "core-vocab-037",
+      "word": "customer",
+      "partOfSpeech": "n.",
+      "meaningZh": "顾客；客户",
+      "exampleEn": "This issue affects customer experience.",
+      "exampleZh": "这个问题影响客户体验。",
+      "family": [
+        "custom"
+      ],
+      "collocations": [
+        "customer service",
+        "customer feedback"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：顾客；客户",
+        "answer": "customer"
+      }
+    },
+    {
+      "id": "core-vocab-038",
+      "word": "delivery",
+      "partOfSpeech": "n.",
+      "meaningZh": "配送；交付",
+      "exampleEn": "The delivery has been delayed.",
+      "exampleZh": "配送延迟了。",
+      "family": [
+        "deliver"
+      ],
+      "collocations": [
+        "delivery time",
+        "delivery address"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：配送；交付",
+        "answer": "delivery"
+      }
+    },
+    {
+      "id": "core-vocab-039",
+      "word": "condition",
+      "partOfSpeech": "n.",
+      "meaningZh": "条件；状态",
+      "exampleEn": "I want to know the deadline and conditions.",
+      "exampleZh": "我想知道期限和条件。",
+      "family": [
+        "conditional"
+      ],
+      "collocations": [
+        "return condition",
+        "good condition"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：条件；状态",
+        "answer": "condition"
+      }
+    },
+    {
+      "id": "core-vocab-040",
+      "word": "evidence",
+      "partOfSpeech": "n.",
+      "meaningZh": "证据",
+      "exampleEn": "Please provide evidence of the issue.",
+      "exampleZh": "请提供问题证据。",
+      "family": [
+        "evident"
+      ],
+      "collocations": [
+        "clear evidence",
+        "supporting evidence"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：证据",
+        "answer": "evidence"
+      }
+    }
+  ]
+}

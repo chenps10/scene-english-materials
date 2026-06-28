@@ -1,0 +1,138 @@
+{
+  "id": "life-daily-openers",
+  "kind": "scenario",
+  "title": "生活场景：日常开口",
+  "level": "A2-B1",
+  "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
+  "sources": ["Manual curation; sentence-pattern inspiration checked against Tatoeba-style everyday usage."],
+  "units": [
+    {
+      "id": "life-order-001",
+      "scene": "咖啡店点单",
+      "phrase": "Could I get a latte to go?",
+      "meaningZh": "我可以要一杯拿铁带走吗？",
+      "exampleEn": "Could I get a latte to go? And could you make it less sweet?",
+      "exampleZh": "我可以要一杯拿铁带走吗？可以少甜一点吗？",
+      "commonMistakeZh": "不要说 I want latte take away。点单时 could I get 更自然，to go 表示带走。",
+      "usageNoteZh": "适合点咖啡、买快餐、买饮料时开口。先说你要什么，再补充温度、甜度或带走。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "不看例句，用英文说一句你在咖啡店点单的话。",
+        "requiredWords": ["could", "get", "to go"],
+        "sampleAnswer": "Could I get a latte to go?"
+      }
+    },
+    {
+      "id": "life-help-002",
+      "scene": "向陌生人求助",
+      "phrase": "Could you help me with this?",
+      "meaningZh": "你能帮我处理一下这个吗？",
+      "exampleEn": "Could you help me with this? I am not sure how to use the machine.",
+      "exampleZh": "你能帮我处理一下这个吗？我不太确定这个机器怎么用。",
+      "commonMistakeZh": "不要直接说 Help me this。with this 是固定结构，语气也需要更礼貌。",
+      "usageNoteZh": "适合自助机、门禁、快递柜、缴费机等不会操作时求助。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文向别人礼貌求助。",
+        "requiredWords": ["could", "help", "with"],
+        "sampleAnswer": "Could you help me with this?"
+      }
+    },
+    {
+      "id": "life-direction-003",
+      "scene": "问路",
+      "phrase": "Is this the right way to the station?",
+      "meaningZh": "这是去车站的正确方向吗？",
+      "exampleEn": "Is this the right way to the station? I think I may be going the wrong way.",
+      "exampleZh": "这是去车站的正确方向吗？我觉得我可能走错方向了。",
+      "commonMistakeZh": "不要说 this way right station。英文问句要有 Is this the right way to...",
+      "usageNoteZh": "适合不确定路线时确认方向，比直接问 where is 更具体。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文确认自己是不是走对路。",
+        "requiredWords": ["right", "way", "station"],
+        "sampleAnswer": "Is this the right way to the station?"
+      }
+    },
+    {
+      "id": "life-appointment-004",
+      "scene": "预约时间",
+      "phrase": "Do you have any time available this afternoon?",
+      "meaningZh": "你今天下午有空档吗？",
+      "exampleEn": "Do you have any time available this afternoon? I would like to make an appointment.",
+      "exampleZh": "你今天下午有空档吗？我想预约一下。",
+      "commonMistakeZh": "不要说 You have time today afternoon? available 更适合问正式空档。",
+      "usageNoteZh": "适合预约理发、看诊、维修、咨询等服务。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文询问今天下午是否有预约空档。",
+        "requiredWords": ["time", "available", "afternoon"],
+        "sampleAnswer": "Do you have any time available this afternoon?"
+      }
+    },
+    {
+      "id": "life-repeat-005",
+      "scene": "没听清",
+      "phrase": "Could you say that again more slowly?",
+      "meaningZh": "你能再慢一点说一遍吗？",
+      "exampleEn": "Could you say that again more slowly? I did not catch the last part.",
+      "exampleZh": "你能再慢一点说一遍吗？我没听清最后一部分。",
+      "commonMistakeZh": "不要只说 repeat。完整说 could you say that again more slowly 更礼貌也更清楚。",
+      "usageNoteZh": "适合任何听不清的场景，是学习者必须熟练掌握的救命句。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文请对方慢一点再说一次。",
+        "requiredWords": ["say", "again", "slowly"],
+        "sampleAnswer": "Could you say that again more slowly?"
+      }
+    },
+    {
+      "id": "life-payment-006",
+      "scene": "付款",
+      "phrase": "Can I pay by card?",
+      "meaningZh": "我可以刷卡付款吗？",
+      "exampleEn": "Can I pay by card? Or do you only take cash?",
+      "exampleZh": "我可以刷卡付款吗？还是你们只收现金？",
+      "commonMistakeZh": "不要说 use card pay。pay by card 是固定说法。",
+      "usageNoteZh": "适合商店、餐厅、窗口付款时快速确认付款方式。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问是否可以刷卡。",
+        "requiredWords": ["pay", "by", "card"],
+        "sampleAnswer": "Can I pay by card?"
+      }
+    },
+    {
+      "id": "life-wait-007",
+      "scene": "询问等待时间",
+      "phrase": "How long is the wait?",
+      "meaningZh": "需要等多久？",
+      "exampleEn": "How long is the wait? We can come back later if needed.",
+      "exampleZh": "需要等多久？如果需要的话我们可以晚点再回来。",
+      "commonMistakeZh": "不要说 need wait how long。How long is the wait? 是很自然的服务场景问法。",
+      "usageNoteZh": "适合餐厅排队、诊所等待、客服排队、取号等待。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文询问需要等多久。",
+        "requiredWords": ["how", "long", "wait"],
+        "sampleAnswer": "How long is the wait?"
+      }
+    },
+    {
+      "id": "life-confirm-008",
+      "scene": "确认信息",
+      "phrase": "Let me make sure I understood correctly.",
+      "meaningZh": "我确认一下我理解得对不对。",
+      "exampleEn": "Let me make sure I understood correctly. The appointment is at three, right?",
+      "exampleZh": "我确认一下我理解得对不对。预约是三点，对吗？",
+      "commonMistakeZh": "不要只说 I know right? 这会显得不清楚。make sure I understood correctly 更稳。",
+      "usageNoteZh": "适合确认时间、地址、价格、规则，能减少误会。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文表达“我确认一下我理解得对不对”。",
+        "requiredWords": ["make", "sure", "understood"],
+        "sampleAnswer": "Let me make sure I understood correctly."
+      }
+    }
+  ]
+}

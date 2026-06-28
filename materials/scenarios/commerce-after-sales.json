@@ -1,0 +1,138 @@
+{
+  "id": "commerce-after-sales",
+  "kind": "scenario",
+  "title": "购物商业：售后沟通",
+  "level": "B1",
+  "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
+  "sources": ["Manual curation based on common ecommerce and customer-service exchanges."],
+  "units": [
+    {
+      "id": "commerce-return-001",
+      "scene": "申请退货",
+      "phrase": "I would like to return this item.",
+      "meaningZh": "我想退掉这个商品。",
+      "exampleEn": "I would like to return this item. It does not fit as expected.",
+      "exampleZh": "我想退掉这个商品。它不像预期那样合适。",
+      "commonMistakeZh": "不要说 I want back this thing。return this item 是标准售后说法。",
+      "usageNoteZh": "适合线下门店、电商客服、售后邮件开头。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说明你想退货。",
+        "requiredWords": ["return", "item"],
+        "sampleAnswer": "I would like to return this item."
+      }
+    },
+    {
+      "id": "commerce-refund-002",
+      "scene": "确认退款",
+      "phrase": "When will the refund be processed?",
+      "meaningZh": "退款什么时候处理？",
+      "exampleEn": "When will the refund be processed? I returned the item yesterday.",
+      "exampleZh": "退款什么时候处理？我昨天已经退回商品了。",
+      "commonMistakeZh": "不要说 when give money back。refund be processed 更正式。",
+      "usageNoteZh": "适合退货后追问退款时间。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文询问退款什么时候处理。",
+        "requiredWords": ["refund", "processed"],
+        "sampleAnswer": "When will the refund be processed?"
+      }
+    },
+    {
+      "id": "commerce-defect-003",
+      "scene": "质量问题",
+      "phrase": "The item arrived damaged.",
+      "meaningZh": "商品到货时已经损坏。",
+      "exampleEn": "The item arrived damaged. I can send photos as proof.",
+      "exampleZh": "商品到货时已经损坏。我可以发照片作为证明。",
+      "commonMistakeZh": "不要只说 product bad。arrived damaged 能明确说明是到货损坏。",
+      "usageNoteZh": "适合售后沟通里描述损坏、缺件、破损。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说明商品到货损坏。",
+        "requiredWords": ["arrived", "damaged"],
+        "sampleAnswer": "The item arrived damaged."
+      }
+    },
+    {
+      "id": "commerce-replace-004",
+      "scene": "要求换货",
+      "phrase": "Could you send a replacement?",
+      "meaningZh": "你们可以补发/换一个吗？",
+      "exampleEn": "Could you send a replacement? The original one does not work.",
+      "exampleZh": "你们可以补发一个吗？原来的不能用。",
+      "commonMistakeZh": "replacement 表示替换品/补发品，不要说 send another same thing。",
+      "usageNoteZh": "适合坏件、错发、缺件时要求换货或补发。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文礼貌要求补发一个。",
+        "requiredWords": ["send", "replacement"],
+        "sampleAnswer": "Could you send a replacement?"
+      }
+    },
+    {
+      "id": "commerce-policy-005",
+      "scene": "询问政策",
+      "phrase": "Could you explain your return policy?",
+      "meaningZh": "你能解释一下你们的退货政策吗？",
+      "exampleEn": "Could you explain your return policy? I want to know the deadline and conditions.",
+      "exampleZh": "你能解释一下你们的退货政策吗？我想知道期限和条件。",
+      "commonMistakeZh": "policy 是政策/规则，不要说 return rule 太口语化。",
+      "usageNoteZh": "适合购买前或售后前确认规则。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文询问退货政策。",
+        "requiredWords": ["explain", "return", "policy"],
+        "sampleAnswer": "Could you explain your return policy?"
+      }
+    },
+    {
+      "id": "commerce-proof-006",
+      "scene": "提供证据",
+      "phrase": "I have attached photos of the issue.",
+      "meaningZh": "我已经附上问题照片。",
+      "exampleEn": "I have attached photos of the issue. Please let me know what else you need.",
+      "exampleZh": "我已经附上问题照片。请告诉我你还需要什么。",
+      "commonMistakeZh": "邮件里说 attached photos 比 send pictures 更正式。",
+      "usageNoteZh": "适合邮件/客服工单里上传图片、视频、订单截图。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说明你已经附上问题照片。",
+        "requiredWords": ["attached", "photos", "issue"],
+        "sampleAnswer": "I have attached photos of the issue."
+      }
+    },
+    {
+      "id": "commerce-order-007",
+      "scene": "核对订单",
+      "phrase": "Could you check my order status?",
+      "meaningZh": "你能帮我查一下订单状态吗？",
+      "exampleEn": "Could you check my order status? The tracking has not updated for three days.",
+      "exampleZh": "你能帮我查一下订单状态吗？物流三天没更新了。",
+      "commonMistakeZh": "不要说 see my order now。check my order status 更自然。",
+      "usageNoteZh": "适合追踪物流、确认订单是否发货。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文请客服查看订单状态。",
+        "requiredWords": ["check", "order", "status"],
+        "sampleAnswer": "Could you check my order status?"
+      }
+    },
+    {
+      "id": "commerce-resolution-008",
+      "scene": "协商解决方案",
+      "phrase": "What solution can you offer?",
+      "meaningZh": "你们能提供什么解决方案？",
+      "exampleEn": "What solution can you offer? I would prefer a replacement instead of a refund.",
+      "exampleZh": "你们能提供什么解决方案？比起退款，我更希望换货。",
+      "commonMistakeZh": "solution can you offer 是礼貌但明确的问法，不要说 how you solve。",
+      "usageNoteZh": "适合对方还没给出处理方式时推动下一步。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文询问对方能提供什么解决方案。",
+        "requiredWords": ["solution", "offer"],
+        "sampleAnswer": "What solution can you offer?"
+      }
+    }
+  ]
+}

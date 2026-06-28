@@ -1,0 +1,63 @@
+{
+  "version": "2026.06.28-001",
+  "product": "Scene English",
+  "language": "zh-CN",
+  "updatedAt": "2026-06-28",
+  "storagePolicy": {
+    "serverContentStorage": "禁止保存材料正文到应用服务器；App 只按需拉取 GitHub Raw JSON。",
+    "audioStorage": "禁止保存用户音频和生成音频缓存。"
+  },
+  "packs": [
+    {
+      "id": "life-daily-openers",
+      "kind": "scenario",
+      "title": "生活场景：日常开口",
+      "summary": "点餐、问路、求助、预约等最常用开口句。",
+      "level": "A2-B1",
+      "unitCount": 8,
+      "url": "materials/scenarios/life-daily-openers.json"
+    },
+    {
+      "id": "travel-problem-solving",
+      "kind": "scenario",
+      "title": "旅游场景：问题处理",
+      "summary": "机场、酒店、交通、行李和突发情况。",
+      "level": "A2-B1",
+      "unitCount": 8,
+      "url": "materials/scenarios/travel-problem-solving.json"
+    },
+    {
+      "id": "work-meeting-basics",
+      "kind": "scenario",
+      "title": "工作场景：会议基础",
+      "summary": "表达观点、确认任务、推进下一步。",
+      "level": "B1-B2",
+      "unitCount": 8,
+      "url": "materials/scenarios/work-meeting-basics.json"
+    },
+    {
+      "id": "commerce-after-sales",
+      "kind": "scenario",
+      "title": "购物商业：售后沟通",
+      "summary": "退换货、退款、质量反馈和礼貌协商。",
+      "level": "B1",
+      "unitCount": 8,
+      "url": "materials/scenarios/commerce-after-sales.json"
+    },
+    {
+      "id": "core-scene-vocabulary-120",
+      "kind": "vocabulary",
+      "title": "全场景核心词 120",
+      "summary": "生活、旅游、工作、商业四类高频核心词，带词族和搭配。",
+      "level": "A2-B2",
+      "unitCount": 40,
+      "url": "materials/vocabulary/core-scene-vocabulary-120.json"
+    }
+  ],
+  "sources": [
+    "https://tatoeba.org/en/downloads",
+    "https://github.com/globalwordnet/english-wordnet",
+    "https://wordnet.princeton.edu/license-and-commercial-use",
+    "https://en.wiktionary.org/wiki/Wiktionary:Copyrights"
+  ]
+}

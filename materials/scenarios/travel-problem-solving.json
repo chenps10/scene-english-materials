@@ -1,0 +1,138 @@
+{
+  "id": "travel-problem-solving",
+  "kind": "scenario",
+  "title": "旅游场景：问题处理",
+  "level": "A2-B1",
+  "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
+  "sources": ["Manual curation with public travel phrase references checked for naturalness."],
+  "units": [
+    {
+      "id": "travel-bag-001",
+      "scene": "行李延误",
+      "phrase": "My luggage has not arrived yet.",
+      "meaningZh": "我的行李还没有到。",
+      "exampleEn": "My luggage has not arrived yet. Could you help me file a report?",
+      "exampleZh": "我的行李还没有到。你能帮我登记一下吗？",
+      "commonMistakeZh": "不要说 my luggage not come。has not arrived yet 更准确。",
+      "usageNoteZh": "适合在机场行李服务柜台说明问题。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说明你的行李还没到。",
+        "requiredWords": ["luggage", "arrived", "yet"],
+        "sampleAnswer": "My luggage has not arrived yet."
+      }
+    },
+    {
+      "id": "travel-room-002",
+      "scene": "酒店房间问题",
+      "phrase": "There seems to be a problem with the room.",
+      "meaningZh": "房间好像有点问题。",
+      "exampleEn": "There seems to be a problem with the room. The air conditioner is not working.",
+      "exampleZh": "房间好像有点问题。空调不能用。",
+      "commonMistakeZh": "不要直接说 room has problem，there seems to be 更礼貌。",
+      "usageNoteZh": "适合向前台反馈房间设备、清洁或噪音问题。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文礼貌反馈房间有问题。",
+        "requiredWords": ["problem", "with", "room"],
+        "sampleAnswer": "There seems to be a problem with the room."
+      }
+    },
+    {
+      "id": "travel-route-003",
+      "scene": "交通路线",
+      "phrase": "Which line should I take to get downtown?",
+      "meaningZh": "去市中心我应该坐哪条线？",
+      "exampleEn": "Which line should I take to get downtown? I am trying to avoid transfers.",
+      "exampleZh": "去市中心我应该坐哪条线？我想尽量少换乘。",
+      "commonMistakeZh": "不要说 take what line go city center。which line should I take 更自然。",
+      "usageNoteZh": "适合地铁、公交、机场快线等交通场景。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问去市中心坐哪条线。",
+        "requiredWords": ["line", "take", "downtown"],
+        "sampleAnswer": "Which line should I take to get downtown?"
+      }
+    },
+    {
+      "id": "travel-delay-004",
+      "scene": "航班延误",
+      "phrase": "Has the flight been delayed?",
+      "meaningZh": "航班延误了吗？",
+      "exampleEn": "Has the flight been delayed? The gate information changed on the screen.",
+      "exampleZh": "航班延误了吗？屏幕上的登机口信息变了。",
+      "commonMistakeZh": "不要说 flight delay already? 完整问句是 has the flight been delayed?",
+      "usageNoteZh": "适合机场确认航班状态、登机口变化和改签信息。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文询问航班是否延误。",
+        "requiredWords": ["flight", "been", "delayed"],
+        "sampleAnswer": "Has the flight been delayed?"
+      }
+    },
+    {
+      "id": "travel-refund-005",
+      "scene": "退款",
+      "phrase": "Is it possible to get a refund?",
+      "meaningZh": "可以退款吗？",
+      "exampleEn": "Is it possible to get a refund? The tour was canceled because of the weather.",
+      "exampleZh": "可以退款吗？这个行程因为天气取消了。",
+      "commonMistakeZh": "不要说 can refund money。get a refund 是固定说法。",
+      "usageNoteZh": "适合门票、活动、交通、酒店政策沟通。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文礼貌询问是否可以退款。",
+        "requiredWords": ["possible", "get", "refund"],
+        "sampleAnswer": "Is it possible to get a refund?"
+      }
+    },
+    {
+      "id": "travel-lost-006",
+      "scene": "遗失物品",
+      "phrase": "I think I left my wallet in the taxi.",
+      "meaningZh": "我觉得我把钱包落在出租车上了。",
+      "exampleEn": "I think I left my wallet in the taxi. Is there a lost and found office?",
+      "exampleZh": "我觉得我把钱包落在出租车上了。有失物招领处吗？",
+      "commonMistakeZh": "left my wallet 表示落下了，不要说 lost in taxi 这种不完整表达。",
+      "usageNoteZh": "适合说明你可能把东西落在某处，需要别人帮你查。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说明钱包可能落在出租车上。",
+        "requiredWords": ["left", "wallet", "taxi"],
+        "sampleAnswer": "I think I left my wallet in the taxi."
+      }
+    },
+    {
+      "id": "travel-medical-007",
+      "scene": "身体不舒服",
+      "phrase": "I am not feeling well.",
+      "meaningZh": "我感觉不太舒服。",
+      "exampleEn": "I am not feeling well. Is there a clinic nearby?",
+      "exampleZh": "我感觉不太舒服。附近有诊所吗？",
+      "commonMistakeZh": "不要说 my body not good。I am not feeling well 是最常用说法。",
+      "usageNoteZh": "适合旅行中寻求医疗、药店或休息帮助。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说你感觉不舒服。",
+        "requiredWords": ["not", "feeling", "well"],
+        "sampleAnswer": "I am not feeling well."
+      }
+    },
+    {
+      "id": "travel-safety-008",
+      "scene": "安全确认",
+      "phrase": "Is this area safe at night?",
+      "meaningZh": "这个区域晚上安全吗？",
+      "exampleEn": "Is this area safe at night? I may need to walk back to the hotel.",
+      "exampleZh": "这个区域晚上安全吗？我可能需要走回酒店。",
+      "commonMistakeZh": "不要说 here night safe? area safe at night 更完整。",
+      "usageNoteZh": "适合向酒店前台、当地人或司机确认安全情况。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文询问这个区域晚上是否安全。",
+        "requiredWords": ["area", "safe", "night"],
+        "sampleAnswer": "Is this area safe at night?"
+      }
+    }
+  ]
+}

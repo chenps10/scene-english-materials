@@ -1,0 +1,138 @@
+{
+  "id": "work-meeting-basics",
+  "kind": "scenario",
+  "title": "工作场景：会议基础",
+  "level": "B1-B2",
+  "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
+  "sources": ["Manual curation; workplace phrase patterns cross-checked against natural business usage."],
+  "units": [
+    {
+      "id": "work-opinion-001",
+      "scene": "表达观点",
+      "phrase": "From my point of view, we should start with the users.",
+      "meaningZh": "从我的角度看，我们应该先从用户开始。",
+      "exampleEn": "From my point of view, we should start with the users before discussing features.",
+      "exampleZh": "从我的角度看，我们应该先从用户开始，再讨论功能。",
+      "commonMistakeZh": "不要每次都说 I think。from my point of view 更适合正式会议表达观点。",
+      "usageNoteZh": "适合提出观点但不想显得太绝对时使用。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文表达“从我的角度看，我们应该先从用户开始”。",
+        "requiredWords": ["point", "view", "users"],
+        "sampleAnswer": "From my point of view, we should start with the users."
+      }
+    },
+    {
+      "id": "work-clarify-002",
+      "scene": "澄清需求",
+      "phrase": "Could you clarify what success looks like?",
+      "meaningZh": "你能说明一下怎样才算成功吗？",
+      "exampleEn": "Could you clarify what success looks like? We need a clear target before we start.",
+      "exampleZh": "你能说明一下怎样才算成功吗？开始前我们需要一个清晰目标。",
+      "commonMistakeZh": "不要只说 what is success。what success looks like 是工作场景里很自然的目标澄清说法。",
+      "usageNoteZh": "适合目标模糊、指标不清、需求不完整时提问。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文请对方澄清成功标准。",
+        "requiredWords": ["clarify", "success", "looks"],
+        "sampleAnswer": "Could you clarify what success looks like?"
+      }
+    },
+    {
+      "id": "work-priority-003",
+      "scene": "确认优先级",
+      "phrase": "Which task should we prioritize this week?",
+      "meaningZh": "这周我们应该优先处理哪个任务？",
+      "exampleEn": "Which task should we prioritize this week? We may not have enough time for everything.",
+      "exampleZh": "这周我们应该优先处理哪个任务？我们可能没有足够时间做完所有事。",
+      "commonMistakeZh": "不要说 which task first do。prioritize 表示按优先级处理。",
+      "usageNoteZh": "适合资源有限、任务很多，需要团队做取舍时使用。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文确认这周优先处理哪个任务。",
+        "requiredWords": ["task", "prioritize", "week"],
+        "sampleAnswer": "Which task should we prioritize this week?"
+      }
+    },
+    {
+      "id": "work-next-step-004",
+      "scene": "推进下一步",
+      "phrase": "What would be the next step?",
+      "meaningZh": "下一步应该是什么？",
+      "exampleEn": "What would be the next step? I can prepare the draft by Friday.",
+      "exampleZh": "下一步应该是什么？我可以周五前准备草稿。",
+      "commonMistakeZh": "不要说 next how do。what would be the next step 更自然。",
+      "usageNoteZh": "适合会议快结束时把讨论落到行动上。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文询问下一步行动。",
+        "requiredWords": ["next", "step"],
+        "sampleAnswer": "What would be the next step?"
+      }
+    },
+    {
+      "id": "work-agree-005",
+      "scene": "部分同意",
+      "phrase": "I agree with the main idea, but I have one concern.",
+      "meaningZh": "我同意主要思路，但我有一个顾虑。",
+      "exampleEn": "I agree with the main idea, but I have one concern about the timeline.",
+      "exampleZh": "我同意主要思路，但我对时间安排有一个顾虑。",
+      "commonMistakeZh": "不要直接说 no 或 I disagree。先承认合理部分，再提出 concern，更容易被接受。",
+      "usageNoteZh": "适合不同意细节但想保持合作氛围时使用。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文表达部分同意并提出一个顾虑。",
+        "requiredWords": ["agree", "concern"],
+        "sampleAnswer": "I agree with the main idea, but I have one concern."
+      }
+    },
+    {
+      "id": "work-update-006",
+      "scene": "同步进度",
+      "phrase": "Here is a quick update on the project.",
+      "meaningZh": "这里快速同步一下项目进展。",
+      "exampleEn": "Here is a quick update on the project. The design is ready, but development needs two more days.",
+      "exampleZh": "这里快速同步一下项目进展。设计已经好了，但开发还需要两天。",
+      "commonMistakeZh": "不要说 I tell you progress。quick update on the project 是工作场景固定搭配。",
+      "usageNoteZh": "适合站会、邮件、群消息里简短同步进度。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文开头同步项目进展。",
+        "requiredWords": ["quick", "update", "project"],
+        "sampleAnswer": "Here is a quick update on the project."
+      }
+    },
+    {
+      "id": "work-owner-007",
+      "scene": "确认负责人",
+      "phrase": "Who will own this task?",
+      "meaningZh": "谁来负责这个任务？",
+      "exampleEn": "Who will own this task? We should make the owner clear before we leave.",
+      "exampleZh": "谁来负责这个任务？离开会议前我们应该明确负责人。",
+      "commonMistakeZh": "own this task 在工作里表示负责，不是拥有这个任务。",
+      "usageNoteZh": "适合任务讨论后确认责任人，避免没人推进。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文确认谁负责这个任务。",
+        "requiredWords": ["own", "task"],
+        "sampleAnswer": "Who will own this task?"
+      }
+    },
+    {
+      "id": "work-follow-up-008",
+      "scene": "会后跟进",
+      "phrase": "I will follow up with a summary after the meeting.",
+      "meaningZh": "会后我会跟进一份总结。",
+      "exampleEn": "I will follow up with a summary after the meeting so everyone is aligned.",
+      "exampleZh": "会后我会跟进一份总结，确保大家信息一致。",
+      "commonMistakeZh": "follow up with a summary 是固定表达，不要说 send follow summary。",
+      "usageNoteZh": "适合会议结束前主动承诺总结、纪要、下一步。",
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说明会后会跟进总结。",
+        "requiredWords": ["follow", "summary", "meeting"],
+        "sampleAnswer": "I will follow up with a summary after the meeting."
+      }
+    }
+  ]
+}
