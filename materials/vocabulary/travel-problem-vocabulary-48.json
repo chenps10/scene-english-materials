@@ -1,0 +1,430 @@
+{
+  "id": "travel-problem-vocabulary-48",
+  "kind": "vocabulary",
+  "title": "旅游问题词汇：机场酒店与交通",
+  "level": "A2-B1",
+  "method": "场景词义 -> 拼写回忆 -> 搭配输出 -> 回到旅游问题表达",
+  "domains": [
+    "travel",
+    "problem-solving"
+  ],
+  "skills": [
+    "vocabulary",
+    "spelling",
+    "meaning-recall",
+    "collocation",
+    "problem-reporting",
+    "service-counter"
+  ],
+  "tags": [
+    "旅游",
+    "机场",
+    "酒店",
+    "交通",
+    "退款",
+    "遗失物品",
+    "突发情况",
+    "搭配"
+  ],
+  "sources": [
+    "Manual curation linked to travel-problem-solving; word-family inspiration checked against Open English WordNet and Princeton WordNet."
+  ],
+  "units": [
+    {
+      "id": "travel-vocab-001",
+      "word": "luggage",
+      "partOfSpeech": "n.",
+      "meaningZh": "行李",
+      "exampleEn": "My luggage has not arrived yet.",
+      "exampleZh": "我的行李还没有到。",
+      "family": [
+        "bag",
+        "baggage"
+      ],
+      "collocations": [
+        "checked luggage",
+        "lost luggage"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "problem-reporting"
+      ],
+      "tags": [
+        "旅游",
+        "机场",
+        "行李",
+        "lost luggage"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：行李",
+        "answer": "luggage"
+      }
+    },
+    {
+      "id": "travel-vocab-002",
+      "word": "arrival",
+      "partOfSpeech": "n.",
+      "meaningZh": "到达；抵达",
+      "exampleEn": "The arrival time changed after the delay.",
+      "exampleZh": "延误后到达时间变了。",
+      "family": [
+        "arrive",
+        "arrived"
+      ],
+      "collocations": [
+        "arrival time",
+        "arrival hall"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "travel-status"
+      ],
+      "tags": [
+        "旅游",
+        "机场",
+        "到达",
+        "arrival time"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：到达；抵达",
+        "answer": "arrival"
+      }
+    },
+    {
+      "id": "travel-vocab-003",
+      "word": "reservation",
+      "partOfSpeech": "n.",
+      "meaningZh": "预订；预约",
+      "exampleEn": "I have a reservation under the name Chen.",
+      "exampleZh": "我用 Chen 这个名字订了房。",
+      "family": [
+        "reserve",
+        "reserved"
+      ],
+      "collocations": [
+        "hotel reservation",
+        "confirm a reservation"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "service-counter"
+      ],
+      "tags": [
+        "旅游",
+        "酒店",
+        "预订",
+        "hotel reservation"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：预订；预约",
+        "answer": "reservation"
+      }
+    },
+    {
+      "id": "travel-vocab-004",
+      "word": "delay",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "延误；推迟",
+      "exampleEn": "Is there a delay because of the weather?",
+      "exampleZh": "是因为天气原因延误了吗？",
+      "family": [
+        "delayed",
+        "postpone"
+      ],
+      "collocations": [
+        "flight delay",
+        "delay a trip"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "problem-reporting"
+      ],
+      "tags": [
+        "旅游",
+        "航班",
+        "延误",
+        "flight delay"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：延误；推迟",
+        "answer": "delay"
+      }
+    },
+    {
+      "id": "travel-vocab-005",
+      "word": "refund",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "退款；退还",
+      "exampleEn": "Is it possible to get a refund for the canceled tour?",
+      "exampleZh": "取消的行程可以退款吗？",
+      "family": [
+        "refundable",
+        "non-refundable"
+      ],
+      "collocations": [
+        "get a refund",
+        "refund policy"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "polite-request"
+      ],
+      "tags": [
+        "旅游",
+        "退款",
+        "取消",
+        "refund policy"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：退款；退还",
+        "answer": "refund"
+      }
+    },
+    {
+      "id": "travel-vocab-006",
+      "word": "transfer",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "换乘；转接",
+      "exampleEn": "Do I need to transfer to another line?",
+      "exampleZh": "我需要换乘到另一条线吗？",
+      "family": [
+        "transit",
+        "connection"
+      ],
+      "collocations": [
+        "make a transfer",
+        "airport transfer"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "transportation"
+      ],
+      "tags": [
+        "旅游",
+        "交通",
+        "换乘",
+        "airport transfer"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：换乘；转接",
+        "answer": "transfer"
+      }
+    },
+    {
+      "id": "travel-vocab-007",
+      "word": "destination",
+      "partOfSpeech": "n.",
+      "meaningZh": "目的地",
+      "exampleEn": "What is the best way to get to this destination?",
+      "exampleZh": "去这个目的地最好的方式是什么？",
+      "family": [
+        "destined",
+        "arrival point"
+      ],
+      "collocations": [
+        "final destination",
+        "travel destination"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "transportation"
+      ],
+      "tags": [
+        "旅游",
+        "交通",
+        "目的地",
+        "final destination"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：目的地",
+        "answer": "destination"
+      }
+    },
+    {
+      "id": "travel-vocab-008",
+      "word": "itinerary",
+      "partOfSpeech": "n.",
+      "meaningZh": "行程安排",
+      "exampleEn": "Could you send me the updated itinerary?",
+      "exampleZh": "你能把更新后的行程发给我吗？",
+      "family": [
+        "schedule",
+        "travel plan"
+      ],
+      "collocations": [
+        "travel itinerary",
+        "updated itinerary"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "travel-planning"
+      ],
+      "tags": [
+        "旅游",
+        "行程",
+        "计划",
+        "travel itinerary"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：行程安排",
+        "answer": "itinerary"
+      }
+    },
+    {
+      "id": "travel-vocab-009",
+      "word": "accommodation",
+      "partOfSpeech": "n.",
+      "meaningZh": "住宿",
+      "exampleEn": "Does the price include accommodation?",
+      "exampleZh": "这个价格包含住宿吗？",
+      "family": [
+        "accommodate",
+        "lodging"
+      ],
+      "collocations": [
+        "book accommodation",
+        "accommodation cost"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "hotel-service"
+      ],
+      "tags": [
+        "旅游",
+        "酒店",
+        "住宿",
+        "book accommodation"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：住宿",
+        "answer": "accommodation"
+      }
+    },
+    {
+      "id": "travel-vocab-010",
+      "word": "emergency",
+      "partOfSpeech": "n.",
+      "meaningZh": "紧急情况",
+      "exampleEn": "Who should I call in an emergency?",
+      "exampleZh": "遇到紧急情况我应该打给谁？",
+      "family": [
+        "urgent",
+        "emergency contact"
+      ],
+      "collocations": [
+        "medical emergency",
+        "emergency number"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "problem-reporting"
+      ],
+      "tags": [
+        "旅游",
+        "突发情况",
+        "医疗",
+        "emergency number"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：紧急情况",
+        "answer": "emergency"
+      }
+    },
+    {
+      "id": "travel-vocab-011",
+      "word": "receipt",
+      "partOfSpeech": "n.",
+      "meaningZh": "收据；小票",
+      "exampleEn": "Do I need the receipt to request a refund?",
+      "exampleZh": "申请退款需要收据吗？",
+      "family": [
+        "proof of purchase",
+        "invoice"
+      ],
+      "collocations": [
+        "keep the receipt",
+        "show a receipt"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "service-counter"
+      ],
+      "tags": [
+        "旅游",
+        "退款",
+        "收据",
+        "show a receipt"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：收据；小票",
+        "answer": "receipt"
+      }
+    },
+    {
+      "id": "travel-vocab-012",
+      "word": "directions",
+      "partOfSpeech": "n.",
+      "meaningZh": "路线指引；方向",
+      "exampleEn": "Could you give me directions to the station?",
+      "exampleZh": "你能告诉我去车站怎么走吗？",
+      "family": [
+        "direction",
+        "direct"
+      ],
+      "collocations": [
+        "ask for directions",
+        "give directions"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "polite-request"
+      ],
+      "tags": [
+        "旅游",
+        "问路",
+        "交通",
+        "ask for directions"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：路线指引；方向",
+        "answer": "directions"
+      }
+    }
+  ]
+}

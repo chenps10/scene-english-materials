@@ -1,0 +1,430 @@
+{
+  "id": "work-meeting-vocabulary-48",
+  "kind": "vocabulary",
+  "title": "工作会议词汇：观点任务与推进",
+  "level": "B1-B2",
+  "method": "会议词义 -> 拼写回忆 -> 搭配输出 -> 回到工作会议表达",
+  "domains": [
+    "work",
+    "meeting"
+  ],
+  "skills": [
+    "vocabulary",
+    "spelling",
+    "meaning-recall",
+    "collocation",
+    "clarifying",
+    "workplace-output"
+  ],
+  "tags": [
+    "工作",
+    "会议",
+    "表达观点",
+    "澄清需求",
+    "优先级",
+    "协作",
+    "推进下一步",
+    "搭配"
+  ],
+  "sources": [
+    "Manual curation linked to work-meeting-basics; word-family inspiration checked against Open English WordNet and Princeton WordNet."
+  ],
+  "units": [
+    {
+      "id": "work-vocab-001",
+      "word": "agenda",
+      "partOfSpeech": "n.",
+      "meaningZh": "议程；会议安排",
+      "exampleEn": "Could we add this topic to the agenda?",
+      "exampleZh": "我们可以把这个主题加到议程里吗？",
+      "family": [
+        "schedule",
+        "meeting plan"
+      ],
+      "collocations": [
+        "meeting agenda",
+        "add to the agenda"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "workplace-output"
+      ],
+      "tags": [
+        "工作",
+        "会议",
+        "议程",
+        "meeting agenda"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：议程；会议安排",
+        "answer": "agenda"
+      }
+    },
+    {
+      "id": "work-vocab-002",
+      "word": "objective",
+      "partOfSpeech": "n.",
+      "meaningZh": "目标；目的",
+      "exampleEn": "What is the main objective of this meeting?",
+      "exampleZh": "这次会议的主要目标是什么？",
+      "family": [
+        "goal",
+        "purpose"
+      ],
+      "collocations": [
+        "main objective",
+        "project objective"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "clarifying"
+      ],
+      "tags": [
+        "工作",
+        "会议",
+        "目标",
+        "main objective"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：目标；目的",
+        "answer": "objective"
+      }
+    },
+    {
+      "id": "work-vocab-003",
+      "word": "priority",
+      "partOfSpeech": "n.",
+      "meaningZh": "优先事项；优先级",
+      "exampleEn": "Which task should be our top priority this week?",
+      "exampleZh": "这周哪个任务应该是我们的最高优先级？",
+      "family": [
+        "prioritize",
+        "prioritized"
+      ],
+      "collocations": [
+        "top priority",
+        "set priorities"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "prioritizing"
+      ],
+      "tags": [
+        "工作",
+        "优先级",
+        "任务",
+        "top priority"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：优先事项；优先级",
+        "answer": "priority"
+      }
+    },
+    {
+      "id": "work-vocab-004",
+      "word": "timeline",
+      "partOfSpeech": "n.",
+      "meaningZh": "时间线；进度安排",
+      "exampleEn": "Can we agree on a clear timeline for the next step?",
+      "exampleZh": "我们可以为下一步确定一个清晰时间线吗？",
+      "family": [
+        "schedule",
+        "time frame"
+      ],
+      "collocations": [
+        "project timeline",
+        "clear timeline"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "planning"
+      ],
+      "tags": [
+        "工作",
+        "时间线",
+        "推进下一步",
+        "project timeline"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：时间线；进度安排",
+        "answer": "timeline"
+      }
+    },
+    {
+      "id": "work-vocab-005",
+      "word": "deliverable",
+      "partOfSpeech": "n.",
+      "meaningZh": "交付物；成果",
+      "exampleEn": "What deliverable do we need by Friday?",
+      "exampleZh": "周五前我们需要什么交付物？",
+      "family": [
+        "deliver",
+        "delivery"
+      ],
+      "collocations": [
+        "final deliverable",
+        "key deliverable"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "workplace-output"
+      ],
+      "tags": [
+        "工作",
+        "任务",
+        "交付物",
+        "key deliverable"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：交付物；成果",
+        "answer": "deliverable"
+      }
+    },
+    {
+      "id": "work-vocab-006",
+      "word": "clarify",
+      "partOfSpeech": "v.",
+      "meaningZh": "澄清；说明清楚",
+      "exampleEn": "Could you clarify what you mean by urgent?",
+      "exampleZh": "你能说明一下你说的紧急具体是什么意思吗？",
+      "family": [
+        "clarification",
+        "clear"
+      ],
+      "collocations": [
+        "clarify a point",
+        "ask for clarification"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "clarifying"
+      ],
+      "tags": [
+        "工作",
+        "澄清需求",
+        "会议",
+        "ask for clarification"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：澄清；说明清楚",
+        "answer": "clarify"
+      }
+    },
+    {
+      "id": "work-vocab-007",
+      "word": "proposal",
+      "partOfSpeech": "n.",
+      "meaningZh": "提案；建议方案",
+      "exampleEn": "I would like to share a proposal for the new workflow.",
+      "exampleZh": "我想分享一个新流程的建议方案。",
+      "family": [
+        "propose",
+        "proposed"
+      ],
+      "collocations": [
+        "make a proposal",
+        "proposal for a workflow"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "idea-sharing"
+      ],
+      "tags": [
+        "工作",
+        "表达观点",
+        "提案",
+        "make a proposal"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：提案；建议方案",
+        "answer": "proposal"
+      }
+    },
+    {
+      "id": "work-vocab-008",
+      "word": "concern",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "担忧；关切",
+      "exampleEn": "My main concern is the delivery timeline.",
+      "exampleZh": "我主要担心的是交付时间线。",
+      "family": [
+        "concerned",
+        "worry"
+      ],
+      "collocations": [
+        "main concern",
+        "raise a concern"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "workplace-output"
+      ],
+      "tags": [
+        "工作",
+        "表达观点",
+        "担忧",
+        "raise a concern"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：担忧；关切",
+        "answer": "concern"
+      }
+    },
+    {
+      "id": "work-vocab-009",
+      "word": "alignment",
+      "partOfSpeech": "n.",
+      "meaningZh": "对齐；一致",
+      "exampleEn": "We need alignment before we move forward.",
+      "exampleZh": "继续推进前我们需要先对齐。",
+      "family": [
+        "align",
+        "aligned"
+      ],
+      "collocations": [
+        "team alignment",
+        "get alignment"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collaboration"
+      ],
+      "tags": [
+        "工作",
+        "协作",
+        "对齐",
+        "team alignment"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：对齐；一致",
+        "answer": "alignment"
+      }
+    },
+    {
+      "id": "work-vocab-010",
+      "word": "update",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "更新；进展同步",
+      "exampleEn": "Could you give us a quick update on the project?",
+      "exampleZh": "你能快速同步一下项目进展吗？",
+      "family": [
+        "updated",
+        "status"
+      ],
+      "collocations": [
+        "status update",
+        "quick update"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "status-reporting"
+      ],
+      "tags": [
+        "工作",
+        "同步进度",
+        "项目",
+        "status update"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：更新；进展同步",
+        "answer": "update"
+      }
+    },
+    {
+      "id": "work-vocab-011",
+      "word": "responsibility",
+      "partOfSpeech": "n.",
+      "meaningZh": "责任；职责",
+      "exampleEn": "Who will take responsibility for this task?",
+      "exampleZh": "谁来负责这个任务？",
+      "family": [
+        "responsible",
+        "responsibly"
+      ],
+      "collocations": [
+        "take responsibility",
+        "clear responsibility"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "task-ownership"
+      ],
+      "tags": [
+        "工作",
+        "任务",
+        "职责",
+        "take responsibility"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：责任；职责",
+        "answer": "responsibility"
+      }
+    },
+    {
+      "id": "work-vocab-012",
+      "word": "follow-up",
+      "partOfSpeech": "n./adj.",
+      "meaningZh": "后续跟进",
+      "exampleEn": "I will send a follow-up email after the meeting.",
+      "exampleZh": "会议后我会发一封后续跟进邮件。",
+      "family": [
+        "follow up",
+        "next step"
+      ],
+      "collocations": [
+        "follow-up email",
+        "follow-up action"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "workplace-output"
+      ],
+      "tags": [
+        "工作",
+        "推进下一步",
+        "邮件",
+        "follow-up email"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文词：后续跟进",
+        "answer": "follow-up"
+      }
+    }
+  ]
+}

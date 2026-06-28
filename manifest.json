@@ -1,5 +1,5 @@
 {
-  "version": "2026.06.28-004",
+  "version": "2026.06.28-005",
   "product": "Scene English",
   "language": "zh-CN",
   "updatedAt": "2026-06-28",
@@ -67,6 +67,37 @@
       ]
     },
     {
+      "id": "travel-problem-vocabulary-48",
+      "kind": "vocabulary",
+      "title": "旅游问题词汇：机场酒店与交通",
+      "summary": "机场、酒店、交通、退款、遗失物品和突发情况的旅游问题处理词。",
+      "level": "A2-B1",
+      "unitCount": 12,
+      "url": "materials/vocabulary/travel-problem-vocabulary-48.json",
+      "domains": [
+        "travel",
+        "problem-solving"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "problem-reporting",
+        "service-counter"
+      ],
+      "tags": [
+        "单词",
+        "旅游",
+        "机场",
+        "酒店",
+        "交通",
+        "退款",
+        "遗失物品",
+        "突发情况"
+      ]
+    },
+    {
       "id": "work-meeting-basics",
       "kind": "scenario",
       "title": "工作场景：会议基础",
@@ -93,6 +124,37 @@
         "优先级",
         "推进下一步",
         "同步进度"
+      ]
+    },
+    {
+      "id": "work-meeting-vocabulary-48",
+      "kind": "vocabulary",
+      "title": "工作会议词汇：观点任务与推进",
+      "summary": "会议议程、目标、优先级、交付物、澄清需求和后续推进词汇。",
+      "level": "B1-B2",
+      "unitCount": 12,
+      "url": "materials/vocabulary/work-meeting-vocabulary-48.json",
+      "domains": [
+        "work",
+        "meeting"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "clarifying",
+        "workplace-output"
+      ],
+      "tags": [
+        "单词",
+        "工作",
+        "会议",
+        "表达观点",
+        "澄清需求",
+        "优先级",
+        "协作",
+        "推进下一步"
       ]
     },
     {
@@ -123,6 +185,39 @@
         "退款",
         "质量问题",
         "换货",
+        "订单状态"
+      ]
+    },
+    {
+      "id": "commerce-after-sales-vocabulary-48",
+      "kind": "vocabulary",
+      "title": "商业售后词汇：退款换货与质量反馈",
+      "summary": "退款、换货、保修、发票、物流、质量反馈和售后协商词汇。",
+      "level": "B1",
+      "unitCount": 12,
+      "url": "materials/vocabulary/commerce-after-sales-vocabulary-48.json",
+      "domains": [
+        "commerce",
+        "shopping",
+        "customer-service"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "problem-reporting",
+        "negotiation",
+        "ecommerce-service"
+      ],
+      "tags": [
+        "单词",
+        "商业",
+        "购物",
+        "售后",
+        "退款",
+        "换货",
+        "质量问题",
         "订单状态"
       ]
     },

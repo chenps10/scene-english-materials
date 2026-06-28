@@ -1,0 +1,432 @@
+{
+  "id": "commerce-after-sales-vocabulary-48",
+  "kind": "vocabulary",
+  "title": "商业售后词汇：退款换货与质量反馈",
+  "level": "B1",
+  "method": "售后词义 -> 拼写回忆 -> 搭配输出 -> 回到商业协商表达",
+  "domains": [
+    "commerce",
+    "shopping",
+    "customer-service"
+  ],
+  "skills": [
+    "vocabulary",
+    "spelling",
+    "meaning-recall",
+    "collocation",
+    "problem-reporting",
+    "negotiation",
+    "ecommerce-service"
+  ],
+  "tags": [
+    "商业",
+    "购物",
+    "售后",
+    "退款",
+    "换货",
+    "质量问题",
+    "订单状态",
+    "搭配"
+  ],
+  "sources": [
+    "Manual curation linked to commerce-after-sales; word-family inspiration checked against Open English WordNet and Princeton WordNet."
+  ],
+  "units": [
+    {
+      "id": "commerce-vocab-001",
+      "word": "defect",
+      "partOfSpeech": "n.",
+      "meaningZh": "缺陷；瑕疵",
+      "exampleEn": "There is a defect in the product I received.",
+      "exampleZh": "我收到的产品有一个缺陷。",
+      "family": [
+        "defective",
+        "fault"
+      ],
+      "collocations": [
+        "product defect",
+        "manufacturing defect"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "problem-reporting"
+      ],
+      "tags": [
+        "商业",
+        "售后",
+        "质量问题",
+        "product defect"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：缺陷；瑕疵",
+        "answer": "defect"
+      }
+    },
+    {
+      "id": "commerce-vocab-002",
+      "word": "replacement",
+      "partOfSpeech": "n.",
+      "meaningZh": "替换品；换货",
+      "exampleEn": "Could you send a replacement for the damaged item?",
+      "exampleZh": "你们可以为这个损坏商品寄一个替换品吗？",
+      "family": [
+        "replace",
+        "replaced"
+      ],
+      "collocations": [
+        "send a replacement",
+        "replacement item"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "polite-request"
+      ],
+      "tags": [
+        "商业",
+        "换货",
+        "损坏",
+        "replacement item"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：替换品；换货",
+        "answer": "replacement"
+      }
+    },
+    {
+      "id": "commerce-vocab-003",
+      "word": "warranty",
+      "partOfSpeech": "n.",
+      "meaningZh": "保修；质保",
+      "exampleEn": "Is this issue covered by the warranty?",
+      "exampleZh": "这个问题在保修范围内吗？",
+      "family": [
+        "guarantee",
+        "coverage"
+      ],
+      "collocations": [
+        "under warranty",
+        "warranty period"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "customer-service"
+      ],
+      "tags": [
+        "商业",
+        "售后",
+        "保修",
+        "warranty period"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：保修；质保",
+        "answer": "warranty"
+      }
+    },
+    {
+      "id": "commerce-vocab-004",
+      "word": "refund",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "退款；退还",
+      "exampleEn": "I would like to request a refund for this order.",
+      "exampleZh": "我想为这个订单申请退款。",
+      "family": [
+        "refundable",
+        "reimburse"
+      ],
+      "collocations": [
+        "request a refund",
+        "full refund"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "negotiation"
+      ],
+      "tags": [
+        "商业",
+        "退款",
+        "订单",
+        "request a refund"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：退款；退还",
+        "answer": "refund"
+      }
+    },
+    {
+      "id": "commerce-vocab-005",
+      "word": "exchange",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "换货；交换",
+      "exampleEn": "Can I exchange this item for a different size?",
+      "exampleZh": "我可以把这个商品换成另一个尺码吗？",
+      "family": [
+        "exchanged",
+        "swap"
+      ],
+      "collocations": [
+        "exchange an item",
+        "exchange policy"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "service-counter"
+      ],
+      "tags": [
+        "商业",
+        "购物",
+        "换货",
+        "exchange policy"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：换货；交换",
+        "answer": "exchange"
+      }
+    },
+    {
+      "id": "commerce-vocab-006",
+      "word": "invoice",
+      "partOfSpeech": "n.",
+      "meaningZh": "发票；账单",
+      "exampleEn": "Could you send me the invoice for this order?",
+      "exampleZh": "你能把这个订单的发票发给我吗？",
+      "family": [
+        "receipt",
+        "billing"
+      ],
+      "collocations": [
+        "issue an invoice",
+        "invoice number"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "ecommerce-service"
+      ],
+      "tags": [
+        "商业",
+        "订单",
+        "发票",
+        "invoice number"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：发票；账单",
+        "answer": "invoice"
+      }
+    },
+    {
+      "id": "commerce-vocab-007",
+      "word": "shipment",
+      "partOfSpeech": "n.",
+      "meaningZh": "发货；货件",
+      "exampleEn": "The shipment has not been updated for three days.",
+      "exampleZh": "这个货件已经三天没有更新了。",
+      "family": [
+        "ship",
+        "shipping"
+      ],
+      "collocations": [
+        "track a shipment",
+        "shipment status"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "order-status"
+      ],
+      "tags": [
+        "商业",
+        "订单状态",
+        "发货",
+        "shipment status"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：发货；货件",
+        "answer": "shipment"
+      }
+    },
+    {
+      "id": "commerce-vocab-008",
+      "word": "damaged",
+      "partOfSpeech": "adj.",
+      "meaningZh": "损坏的",
+      "exampleEn": "The package arrived damaged.",
+      "exampleZh": "包裹送到时已经损坏了。",
+      "family": [
+        "damage",
+        "damaging"
+      ],
+      "collocations": [
+        "damaged item",
+        "arrived damaged"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "problem-reporting"
+      ],
+      "tags": [
+        "商业",
+        "售后",
+        "损坏",
+        "damaged item"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：损坏的",
+        "answer": "damaged"
+      }
+    },
+    {
+      "id": "commerce-vocab-009",
+      "word": "policy",
+      "partOfSpeech": "n.",
+      "meaningZh": "政策；规则",
+      "exampleEn": "Could you explain the return policy?",
+      "exampleZh": "你能说明一下退货政策吗？",
+      "family": [
+        "rule",
+        "guideline"
+      ],
+      "collocations": [
+        "return policy",
+        "refund policy"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "clarifying"
+      ],
+      "tags": [
+        "商业",
+        "售后",
+        "政策",
+        "return policy"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：政策；规则",
+        "answer": "policy"
+      }
+    },
+    {
+      "id": "commerce-vocab-010",
+      "word": "compensation",
+      "partOfSpeech": "n.",
+      "meaningZh": "补偿；赔偿",
+      "exampleEn": "Is there any compensation for the delayed delivery?",
+      "exampleZh": "配送延误有没有任何补偿？",
+      "family": [
+        "compensate",
+        "reimbursement"
+      ],
+      "collocations": [
+        "offer compensation",
+        "fair compensation"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "negotiation"
+      ],
+      "tags": [
+        "商业",
+        "协商",
+        "补偿",
+        "offer compensation"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：补偿；赔偿",
+        "answer": "compensation"
+      }
+    },
+    {
+      "id": "commerce-vocab-011",
+      "word": "evidence",
+      "partOfSpeech": "n.",
+      "meaningZh": "证据；凭证",
+      "exampleEn": "I can provide photos as evidence of the damage.",
+      "exampleZh": "我可以提供照片作为损坏证据。",
+      "family": [
+        "proof",
+        "document"
+      ],
+      "collocations": [
+        "provide evidence",
+        "evidence of damage"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "problem-reporting"
+      ],
+      "tags": [
+        "商业",
+        "质量问题",
+        "凭证",
+        "provide evidence"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：证据；凭证",
+        "answer": "evidence"
+      }
+    },
+    {
+      "id": "commerce-vocab-012",
+      "word": "resolution",
+      "partOfSpeech": "n.",
+      "meaningZh": "解决方案；处理结果",
+      "exampleEn": "What resolution can you offer for this issue?",
+      "exampleZh": "针对这个问题你们能提供什么解决方案？",
+      "family": [
+        "resolve",
+        "solution"
+      ],
+      "collocations": [
+        "offer a resolution",
+        "quick resolution"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "negotiation"
+      ],
+      "tags": [
+        "商业",
+        "售后",
+        "解决方案",
+        "quick resolution"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：解决方案；处理结果",
+        "answer": "resolution"
+      }
+    }
+  ]
+}
