@@ -1,0 +1,295 @@
+{
+  "id": "family-home-communication",
+  "kind": "scenario",
+  "title": "家庭场景：日常沟通",
+  "level": "A2-B1",
+  "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
+  "domains": [
+    "family",
+    "home",
+    "relationship"
+  ],
+  "skills": [
+    "speaking",
+    "daily-coordination",
+    "emotion-expression",
+    "polite-request",
+    "relationship-repair"
+  ],
+  "tags": [
+    "家庭",
+    "家务",
+    "照顾家人",
+    "日程协调",
+    "表达关心",
+    "家庭沟通",
+    "情绪表达"
+  ],
+  "sources": [
+    "Manual curation; everyday home communication patterns written for Chinese-first learners."
+  ],
+  "units": [
+    {
+      "id": "family-help-001",
+      "scene": "请家人帮忙",
+      "phrase": "Could you give me a hand with dinner?",
+      "meaningZh": "你能帮我一起准备晚饭吗？",
+      "exampleEn": "Could you give me a hand with dinner? I still need to cut the vegetables.",
+      "exampleZh": "你能帮我一起准备晚饭吗？我还需要切菜。",
+      "commonMistakeZh": "不要说 help my dinner。give me a hand with dinner 是自然的帮忙表达。",
+      "usageNoteZh": "适合请家人帮做饭、搬东西、收拾房间等日常家务。",
+      "skills": [
+        "speaking",
+        "polite-request",
+        "daily-coordination"
+      ],
+      "tags": [
+        "家庭",
+        "家务",
+        "晚饭",
+        "帮忙",
+        "日常沟通"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文请家人帮忙准备晚饭。",
+        "requiredWords": [
+          "give",
+          "hand",
+          "dinner"
+        ],
+        "sampleAnswer": "Could you give me a hand with dinner?"
+      }
+    },
+    {
+      "id": "family-checkin-002",
+      "scene": "表达关心",
+      "phrase": "How are you feeling today?",
+      "meaningZh": "你今天感觉怎么样？",
+      "exampleEn": "How are you feeling today? You looked tired last night.",
+      "exampleZh": "你今天感觉怎么样？你昨晚看起来很累。",
+      "commonMistakeZh": "不要只说 you okay? 在关心家人身体或情绪时，How are you feeling today 更温和。",
+      "usageNoteZh": "适合问候父母、伴侣、孩子、朋友的身体和情绪状态。",
+      "skills": [
+        "speaking",
+        "emotion-expression",
+        "relationship-care",
+        "listening"
+      ],
+      "tags": [
+        "家庭",
+        "表达关心",
+        "身体状态",
+        "情绪",
+        "问候"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问家人今天感觉怎么样。",
+        "requiredWords": [
+          "how",
+          "feeling",
+          "today"
+        ],
+        "sampleAnswer": "How are you feeling today?"
+      }
+    },
+    {
+      "id": "family-schedule-003",
+      "scene": "协调日程",
+      "phrase": "What time should we leave tomorrow?",
+      "meaningZh": "我们明天应该几点出发？",
+      "exampleEn": "What time should we leave tomorrow? The appointment is at ten.",
+      "exampleZh": "我们明天应该几点出发？预约时间是十点。",
+      "commonMistakeZh": "不要说 tomorrow what time go。leave 表示出发，句子要有 should we。",
+      "usageNoteZh": "适合家庭出行、看诊、上学、接送、聚餐前协调时间。",
+      "skills": [
+        "speaking",
+        "daily-coordination",
+        "time-management"
+      ],
+      "tags": [
+        "家庭",
+        "日程协调",
+        "出发时间",
+        "预约",
+        "接送"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问明天几点出发。",
+        "requiredWords": [
+          "what time",
+          "leave",
+          "tomorrow"
+        ],
+        "sampleAnswer": "What time should we leave tomorrow?"
+      }
+    },
+    {
+      "id": "family-chores-004",
+      "scene": "分配家务",
+      "phrase": "Could we split the chores this weekend?",
+      "meaningZh": "这个周末我们能分担一下家务吗？",
+      "exampleEn": "Could we split the chores this weekend? I can clean the kitchen if you do the laundry.",
+      "exampleZh": "这个周末我们能分担一下家务吗？如果你洗衣服，我可以打扫厨房。",
+      "commonMistakeZh": "不要说 divide housework。chores 是家务，split the chores 很自然。",
+      "usageNoteZh": "适合室友、伴侣、家庭成员之间协商家务分配。",
+      "skills": [
+        "speaking",
+        "negotiation",
+        "daily-coordination",
+        "polite-request"
+      ],
+      "tags": [
+        "家庭",
+        "家务",
+        "分担",
+        "周末",
+        "协商"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文提议这个周末分担家务。",
+        "requiredWords": [
+          "split",
+          "chores",
+          "weekend"
+        ],
+        "sampleAnswer": "Could we split the chores this weekend?"
+      }
+    },
+    {
+      "id": "family-kids-005",
+      "scene": "和孩子沟通",
+      "phrase": "Let's clean up your toys before dinner.",
+      "meaningZh": "我们晚饭前先把你的玩具收好吧。",
+      "exampleEn": "Let's clean up your toys before dinner, and then we can read a story.",
+      "exampleZh": "我们晚饭前先把你的玩具收好，然后可以读一个故事。",
+      "commonMistakeZh": "不要说 clean your toys。clean up 表示收拾整理，语气用 let's 更像一起做。",
+      "usageNoteZh": "适合和孩子说收拾、洗手、准备出门、睡前流程。",
+      "skills": [
+        "speaking",
+        "parent-child",
+        "daily-routine",
+        "gentle-instruction"
+      ],
+      "tags": [
+        "家庭",
+        "孩子",
+        "收拾玩具",
+        "晚饭",
+        "日常流程"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文温和地让孩子晚饭前收玩具。",
+        "requiredWords": [
+          "clean up",
+          "toys",
+          "dinner"
+        ],
+        "sampleAnswer": "Let's clean up your toys before dinner."
+      }
+    },
+    {
+      "id": "family-apology-006",
+      "scene": "家庭小冲突后道歉",
+      "phrase": "I'm sorry I sounded impatient earlier.",
+      "meaningZh": "对不起，我刚才听起来有点不耐烦。",
+      "exampleEn": "I'm sorry I sounded impatient earlier. I was stressed, but I should not have spoken like that.",
+      "exampleZh": "对不起，我刚才听起来有点不耐烦。我当时压力很大，但不该那样说话。",
+      "commonMistakeZh": "不要只说 sorry for that。说清楚 earlier 和 sounded impatient，会更真诚具体。",
+      "usageNoteZh": "适合和家人、伴侣、朋友修复语气造成的小冲突。",
+      "skills": [
+        "speaking",
+        "relationship-repair",
+        "emotion-expression",
+        "apology"
+      ],
+      "tags": [
+        "家庭",
+        "道歉",
+        "语气",
+        "冲突修复",
+        "情绪表达"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文为自己刚才不耐烦的语气道歉。",
+        "requiredWords": [
+          "sorry",
+          "sounded",
+          "impatient"
+        ],
+        "sampleAnswer": "I'm sorry I sounded impatient earlier."
+      }
+    },
+    {
+      "id": "family-preference-007",
+      "scene": "表达偏好",
+      "phrase": "I'd rather stay in tonight if that's okay.",
+      "meaningZh": "如果可以的话，我今晚更想待在家里。",
+      "exampleEn": "I'd rather stay in tonight if that's okay. I need a quiet evening.",
+      "exampleZh": "如果可以的话，我今晚更想待在家里。我需要一个安静的晚上。",
+      "commonMistakeZh": "不要说 I more want stay home。I'd rather 表示更愿意，stay in 表示待在家。",
+      "usageNoteZh": "适合和家人朋友讨论是否外出、吃什么、做什么安排。",
+      "skills": [
+        "speaking",
+        "preference-expression",
+        "polite-refusal",
+        "emotion-expression"
+      ],
+      "tags": [
+        "家庭",
+        "表达偏好",
+        "待在家",
+        "拒绝",
+        "安排"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文表达你今晚更想待在家里。",
+        "requiredWords": [
+          "rather",
+          "stay in",
+          "tonight"
+        ],
+        "sampleAnswer": "I'd rather stay in tonight if that's okay."
+      }
+    },
+    {
+      "id": "family-thanks-008",
+      "scene": "感谢家人",
+      "phrase": "Thanks for taking care of this.",
+      "meaningZh": "谢谢你处理这件事。",
+      "exampleEn": "Thanks for taking care of this. It really saved me a lot of time.",
+      "exampleZh": "谢谢你处理这件事。这真的帮我省了很多时间。",
+      "commonMistakeZh": "不要只说 thank you for this。take care of this 表示处理这件事，更具体。",
+      "usageNoteZh": "适合感谢家人帮你处理账单、维修、接送、家务、安排。",
+      "skills": [
+        "speaking",
+        "gratitude",
+        "relationship-care",
+        "daily-coordination"
+      ],
+      "tags": [
+        "家庭",
+        "感谢",
+        "处理事情",
+        "照顾",
+        "关系维护"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文感谢家人帮你处理这件事。",
+        "requiredWords": [
+          "thanks",
+          "taking care",
+          "this"
+        ],
+        "sampleAnswer": "Thanks for taking care of this."
+      }
+    }
+  ]
+}

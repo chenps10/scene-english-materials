@@ -1,5 +1,5 @@
 {
-  "version": "2026.06.28-002",
+  "version": "2026.06.28-003",
   "product": "Scene English",
   "language": "zh-CN",
   "updatedAt": "2026-06-28",
@@ -124,6 +124,128 @@
         "质量问题",
         "换货",
         "订单状态"
+      ]
+    },
+    {
+      "id": "campus-study-support",
+      "kind": "scenario",
+      "title": "校园场景：学习支持",
+      "summary": "课堂提问、作业确认、延期、小组分工和学习反馈。",
+      "level": "A2-B1",
+      "unitCount": 8,
+      "url": "materials/scenarios/campus-study-support.json",
+      "domains": [
+        "campus",
+        "study",
+        "academic-life"
+      ],
+      "skills": [
+        "speaking",
+        "clarifying",
+        "asking-for-help",
+        "academic-communication",
+        "polite-request"
+      ],
+      "tags": [
+        "校园",
+        "学习",
+        "课堂",
+        "作业",
+        "老师沟通",
+        "小组讨论",
+        "截止日期",
+        "学习支持"
+      ]
+    },
+    {
+      "id": "family-home-communication",
+      "kind": "scenario",
+      "title": "家庭场景：日常沟通",
+      "summary": "家务协作、表达关心、日程协调、亲子沟通和冲突修复。",
+      "level": "A2-B1",
+      "unitCount": 8,
+      "url": "materials/scenarios/family-home-communication.json",
+      "domains": [
+        "family",
+        "home",
+        "relationship"
+      ],
+      "skills": [
+        "speaking",
+        "daily-coordination",
+        "emotion-expression",
+        "polite-request",
+        "relationship-repair"
+      ],
+      "tags": [
+        "家庭",
+        "家务",
+        "照顾家人",
+        "日程协调",
+        "表达关心",
+        "家庭沟通",
+        "情绪表达"
+      ]
+    },
+    {
+      "id": "career-growth-interviews",
+      "kind": "scenario",
+      "title": "职业发展：面试与成长",
+      "summary": "面试自我介绍、优势表达、成果量化、薪资沟通和后续跟进。",
+      "level": "B1-B2",
+      "unitCount": 8,
+      "url": "materials/scenarios/career-growth-interviews.json",
+      "domains": [
+        "career",
+        "work",
+        "interview"
+      ],
+      "skills": [
+        "speaking",
+        "career-output",
+        "self-introduction",
+        "achievement-framing",
+        "clarifying"
+      ],
+      "tags": [
+        "职业发展",
+        "面试",
+        "自我介绍",
+        "优势表达",
+        "薪资",
+        "反馈",
+        "成长计划"
+      ]
+    },
+    {
+      "id": "shopping-in-store-service",
+      "kind": "scenario",
+      "title": "购物场景：门店服务",
+      "summary": "试穿、尺码、价格、会员优惠、收据和商品问题沟通。",
+      "level": "A2-B1",
+      "unitCount": 8,
+      "url": "materials/scenarios/shopping-in-store-service.json",
+      "domains": [
+        "shopping",
+        "life",
+        "customer-service"
+      ],
+      "skills": [
+        "speaking",
+        "service-counter",
+        "polite-request",
+        "comparison",
+        "problem-reporting"
+      ],
+      "tags": [
+        "购物",
+        "门店",
+        "试穿",
+        "尺码",
+        "价格",
+        "会员",
+        "收据",
+        "服务沟通"
       ]
     },
     {

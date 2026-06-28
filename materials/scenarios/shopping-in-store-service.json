@@ -1,0 +1,296 @@
+{
+  "id": "shopping-in-store-service",
+  "kind": "scenario",
+  "title": "购物场景：门店服务",
+  "level": "A2-B1",
+  "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
+  "domains": [
+    "shopping",
+    "life",
+    "customer-service"
+  ],
+  "skills": [
+    "speaking",
+    "service-counter",
+    "polite-request",
+    "comparison",
+    "problem-reporting"
+  ],
+  "tags": [
+    "购物",
+    "门店",
+    "试穿",
+    "尺码",
+    "价格",
+    "会员",
+    "收据",
+    "服务沟通"
+  ],
+  "sources": [
+    "Manual curation; in-store service patterns written from common retail customer interactions."
+  ],
+  "units": [
+    {
+      "id": "shopping-size-001",
+      "scene": "询问尺码",
+      "phrase": "Do you have this in a smaller size?",
+      "meaningZh": "这个有小一点的尺码吗？",
+      "exampleEn": "Do you have this in a smaller size? This one is a bit too loose.",
+      "exampleZh": "这个有小一点的尺码吗？这件有点太松了。",
+      "commonMistakeZh": "不要说 have small size this。this in a smaller size 是自然结构。",
+      "usageNoteZh": "适合买衣服、鞋子、帽子等需要换尺码的门店场景。",
+      "skills": [
+        "speaking",
+        "service-counter",
+        "polite-request"
+      ],
+      "tags": [
+        "购物",
+        "尺码",
+        "门店",
+        "衣服",
+        "试穿"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问这件有没有小一点的尺码。",
+        "requiredWords": [
+          "this",
+          "smaller",
+          "size"
+        ],
+        "sampleAnswer": "Do you have this in a smaller size?"
+      }
+    },
+    {
+      "id": "shopping-tryon-002",
+      "scene": "询问试衣间",
+      "phrase": "Where is the fitting room?",
+      "meaningZh": "试衣间在哪里？",
+      "exampleEn": "Where is the fitting room? I would like to try this on.",
+      "exampleZh": "试衣间在哪里？我想试穿这件。",
+      "commonMistakeZh": "不要说 where can try clothes。fitting room 是试衣间，try this on 是试穿这件。",
+      "usageNoteZh": "适合服装店、运动用品店、商场购物。",
+      "skills": [
+        "speaking",
+        "service-counter",
+        "survival-phrases"
+      ],
+      "tags": [
+        "购物",
+        "试衣间",
+        "试穿",
+        "门店",
+        "服装"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问试衣间在哪里。",
+        "requiredWords": [
+          "where",
+          "fitting",
+          "room"
+        ],
+        "sampleAnswer": "Where is the fitting room?"
+      }
+    },
+    {
+      "id": "shopping-price-003",
+      "scene": "确认价格",
+      "phrase": "Is this the final price?",
+      "meaningZh": "这是最终价格吗？",
+      "exampleEn": "Is this the final price, or is there an extra discount today?",
+      "exampleZh": "这是最终价格吗？还是今天还有额外折扣？",
+      "commonMistakeZh": "不要说 this price last? final price 是最终价格，extra discount 是额外折扣。",
+      "usageNoteZh": "适合有折扣、促销、税费、会员价时确认价格。",
+      "skills": [
+        "speaking",
+        "price-checking",
+        "service-counter",
+        "comparison"
+      ],
+      "tags": [
+        "购物",
+        "价格",
+        "折扣",
+        "促销",
+        "会员价"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文确认这是不是最终价格。",
+        "requiredWords": [
+          "final",
+          "price",
+          "this"
+        ],
+        "sampleAnswer": "Is this the final price?"
+      }
+    },
+    {
+      "id": "shopping-compare-004",
+      "scene": "比较商品",
+      "phrase": "What is the difference between these two models?",
+      "meaningZh": "这两个型号有什么区别？",
+      "exampleEn": "What is the difference between these two models? I am mainly looking for something lighter.",
+      "exampleZh": "这两个型号有什么区别？我主要想找更轻一点的。",
+      "commonMistakeZh": "不要说 what different these two。difference between these two models 是标准说法。",
+      "usageNoteZh": "适合电子产品、家电、运动装备、美妆产品等比较型号。",
+      "skills": [
+        "speaking",
+        "comparison",
+        "shopping-advice",
+        "clarifying"
+      ],
+      "tags": [
+        "购物",
+        "比较",
+        "型号",
+        "电子产品",
+        "区别"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问两个型号有什么区别。",
+        "requiredWords": [
+          "difference",
+          "between",
+          "models"
+        ],
+        "sampleAnswer": "What is the difference between these two models?"
+      }
+    },
+    {
+      "id": "shopping-receipt-005",
+      "scene": "索要收据",
+      "phrase": "Could I get a receipt, please?",
+      "meaningZh": "可以给我一张收据吗？",
+      "exampleEn": "Could I get a receipt, please? I may need it for reimbursement.",
+      "exampleZh": "可以给我一张收据吗？我可能需要报销。",
+      "commonMistakeZh": "不要说 give me ticket。receipt 是购物收据，please 让语气更礼貌。",
+      "usageNoteZh": "适合付款后索要纸质或电子收据，也可用于报销场景。",
+      "skills": [
+        "speaking",
+        "polite-request",
+        "service-counter",
+        "purchase-record"
+      ],
+      "tags": [
+        "购物",
+        "收据",
+        "付款",
+        "报销",
+        "门店"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文礼貌索要收据。",
+        "requiredWords": [
+          "get",
+          "receipt",
+          "please"
+        ],
+        "sampleAnswer": "Could I get a receipt, please?"
+      }
+    },
+    {
+      "id": "shopping-membership-006",
+      "scene": "询问会员优惠",
+      "phrase": "Do members get any extra discounts?",
+      "meaningZh": "会员有额外折扣吗？",
+      "exampleEn": "Do members get any extra discounts? I can sign up if it makes a difference.",
+      "exampleZh": "会员有额外折扣吗？如果有差别，我可以注册。",
+      "commonMistakeZh": "不要说 member cheaper? extra discounts 更完整，sign up 表示注册。",
+      "usageNoteZh": "适合商场、超市、品牌店、线上线下会员优惠咨询。",
+      "skills": [
+        "speaking",
+        "service-counter",
+        "discount-inquiry",
+        "polite-request"
+      ],
+      "tags": [
+        "购物",
+        "会员",
+        "折扣",
+        "注册",
+        "优惠"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问会员有没有额外折扣。",
+        "requiredWords": [
+          "members",
+          "extra",
+          "discounts"
+        ],
+        "sampleAnswer": "Do members get any extra discounts?"
+      }
+    },
+    {
+      "id": "shopping-damage-007",
+      "scene": "发现商品损坏",
+      "phrase": "I noticed a small scratch on this item.",
+      "meaningZh": "我注意到这个商品上有一道小划痕。",
+      "exampleEn": "I noticed a small scratch on this item. Is there another one in stock?",
+      "exampleZh": "我注意到这个商品上有一道小划痕。还有另一个现货吗？",
+      "commonMistakeZh": "不要说 this has bad。scratch 是划痕，noticed 表示你发现了问题，语气比较客观。",
+      "usageNoteZh": "适合商品瑕疵、包装破损、展示品问题等门店沟通。",
+      "skills": [
+        "speaking",
+        "problem-reporting",
+        "service-counter",
+        "replacement-request"
+      ],
+      "tags": [
+        "购物",
+        "划痕",
+        "商品问题",
+        "现货",
+        "换一个"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说明你发现这个商品有小划痕。",
+        "requiredWords": [
+          "noticed",
+          "scratch",
+          "item"
+        ],
+        "sampleAnswer": "I noticed a small scratch on this item."
+      }
+    },
+    {
+      "id": "shopping-hold-008",
+      "scene": "请求保留商品",
+      "phrase": "Could you hold this for me until this evening?",
+      "meaningZh": "你能帮我把这个保留到今晚吗？",
+      "exampleEn": "Could you hold this for me until this evening? I need to check the size with my family.",
+      "exampleZh": "你能帮我把这个保留到今晚吗？我需要和家人确认尺码。",
+      "commonMistakeZh": "不要说 keep this to night for me。hold this for me 是门店保留商品的常用说法。",
+      "usageNoteZh": "适合犹豫购买、需要回家确认、等待朋友或家人决定时。",
+      "skills": [
+        "speaking",
+        "polite-request",
+        "service-counter",
+        "purchase-planning"
+      ],
+      "tags": [
+        "购物",
+        "保留商品",
+        "今晚",
+        "尺码",
+        "决定"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文请店员把商品保留到今晚。",
+        "requiredWords": [
+          "hold",
+          "for me",
+          "evening"
+        ],
+        "sampleAnswer": "Could you hold this for me until this evening?"
+      }
+    }
+  ]
+}

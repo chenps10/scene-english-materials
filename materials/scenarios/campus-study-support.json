@@ -1,0 +1,298 @@
+{
+  "id": "campus-study-support",
+  "kind": "scenario",
+  "title": "校园场景：学习支持",
+  "level": "A2-B1",
+  "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
+  "domains": [
+    "campus",
+    "study",
+    "academic-life"
+  ],
+  "skills": [
+    "speaking",
+    "clarifying",
+    "asking-for-help",
+    "academic-communication",
+    "polite-request"
+  ],
+  "tags": [
+    "校园",
+    "学习",
+    "课堂",
+    "作业",
+    "老师沟通",
+    "小组讨论",
+    "截止日期",
+    "学习支持"
+  ],
+  "sources": [
+    "Manual curation; school-life sentence patterns checked against common classroom and campus service usage."
+  ],
+  "units": [
+    {
+      "id": "campus-clarify-001",
+      "scene": "课堂没听懂",
+      "phrase": "Could you explain that again in a simpler way?",
+      "meaningZh": "你能用更简单的方式再解释一遍吗？",
+      "exampleEn": "Could you explain that again in a simpler way? I understand the idea, but not the example.",
+      "exampleZh": "你能用更简单的方式再解释一遍吗？我理解这个想法，但没懂例子。",
+      "commonMistakeZh": "不要只说 I don't understand。这样信息太少。加上 explain again 和 simpler way，老师更容易帮你。",
+      "usageNoteZh": "适合课堂、辅导课、线上课程中请求老师换一种方式解释。",
+      "skills": [
+        "speaking",
+        "clarifying",
+        "asking-for-help",
+        "academic-communication"
+      ],
+      "tags": [
+        "校园",
+        "课堂",
+        "没听懂",
+        "老师沟通",
+        "解释"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文请老师用更简单的方式再解释一次。",
+        "requiredWords": [
+          "explain",
+          "again",
+          "simpler"
+        ],
+        "sampleAnswer": "Could you explain that again in a simpler way?"
+      }
+    },
+    {
+      "id": "campus-assignment-002",
+      "scene": "确认作业要求",
+      "phrase": "I want to make sure I understand the assignment correctly.",
+      "meaningZh": "我想确认自己正确理解了这个作业要求。",
+      "exampleEn": "I want to make sure I understand the assignment correctly. Do we need to include references?",
+      "exampleZh": "我想确认自己正确理解了这个作业要求。我们需要包含参考文献吗？",
+      "commonMistakeZh": "不要说 I know homework right? assignment 比 homework 更适合大学或正式课程。",
+      "usageNoteZh": "适合问老师、助教或同学作业格式、提交要求、评分标准。",
+      "skills": [
+        "speaking",
+        "clarifying",
+        "academic-communication",
+        "task-confirmation"
+      ],
+      "tags": [
+        "校园",
+        "作业",
+        "确认要求",
+        "参考文献",
+        "评分标准"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说你想确认自己理解了作业要求。",
+        "requiredWords": [
+          "make sure",
+          "understand",
+          "assignment"
+        ],
+        "sampleAnswer": "I want to make sure I understand the assignment correctly."
+      }
+    },
+    {
+      "id": "campus-deadline-003",
+      "scene": "询问截止日期",
+      "phrase": "When is the deadline for this project?",
+      "meaningZh": "这个项目的截止日期是什么时候？",
+      "exampleEn": "When is the deadline for this project? I want to plan my work for the week.",
+      "exampleZh": "这个项目的截止日期是什么时候？我想安排这一周的学习计划。",
+      "commonMistakeZh": "不要说 when finish this project。deadline 是截止日期，for this project 结构自然。",
+      "usageNoteZh": "适合课程项目、小组任务、论文草稿、申请材料等场景。",
+      "skills": [
+        "speaking",
+        "time-management",
+        "academic-communication",
+        "clarifying"
+      ],
+      "tags": [
+        "校园",
+        "截止日期",
+        "项目",
+        "时间管理",
+        "学习计划"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问项目什么时候截止。",
+        "requiredWords": [
+          "when",
+          "deadline",
+          "project"
+        ],
+        "sampleAnswer": "When is the deadline for this project?"
+      }
+    },
+    {
+      "id": "campus-extension-004",
+      "scene": "请求延期",
+      "phrase": "Would it be possible to get a short extension?",
+      "meaningZh": "是否可以给我一个短期延期？",
+      "exampleEn": "Would it be possible to get a short extension? I have been sick for two days.",
+      "exampleZh": "是否可以给我一个短期延期？我已经病了两天。",
+      "commonMistakeZh": "不要直接说 give me more time。extension 是延期，would it be possible 更礼貌。",
+      "usageNoteZh": "适合真实有原因时向老师、助教、项目负责人申请延期。",
+      "skills": [
+        "speaking",
+        "polite-request",
+        "academic-communication",
+        "reason-giving"
+      ],
+      "tags": [
+        "校园",
+        "延期",
+        "作业",
+        "礼貌请求",
+        "说明原因"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文礼貌请求短期延期。",
+        "requiredWords": [
+          "possible",
+          "short",
+          "extension"
+        ],
+        "sampleAnswer": "Would it be possible to get a short extension?"
+      }
+    },
+    {
+      "id": "campus-group-005",
+      "scene": "小组讨论分工",
+      "phrase": "How should we divide the work?",
+      "meaningZh": "我们应该怎么分工？",
+      "exampleEn": "How should we divide the work? I can prepare the slides if you handle the data.",
+      "exampleZh": "我们应该怎么分工？如果你处理数据，我可以准备幻灯片。",
+      "commonMistakeZh": "不要说 how we split jobs。divide the work 是更自然的小组分工表达。",
+      "usageNoteZh": "适合小组作业、课堂项目、社团活动中讨论谁负责什么。",
+      "skills": [
+        "speaking",
+        "collaboration",
+        "academic-communication",
+        "planning"
+      ],
+      "tags": [
+        "校园",
+        "小组讨论",
+        "分工",
+        "项目",
+        "协作"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问小组应该怎么分工。",
+        "requiredWords": [
+          "how",
+          "divide",
+          "work"
+        ],
+        "sampleAnswer": "How should we divide the work?"
+      }
+    },
+    {
+      "id": "campus-library-006",
+      "scene": "图书馆求助",
+      "phrase": "Could you help me find this book?",
+      "meaningZh": "你能帮我找这本书吗？",
+      "exampleEn": "Could you help me find this book? The system says it is available, but I cannot see it on the shelf.",
+      "exampleZh": "你能帮我找这本书吗？系统显示可借，但我在书架上没看到。",
+      "commonMistakeZh": "不要说 help me look book。find this book 是找这本书，on the shelf 是在书架上。",
+      "usageNoteZh": "适合图书馆、资料室、书店、校园服务台等场景。",
+      "skills": [
+        "speaking",
+        "polite-request",
+        "campus-service",
+        "asking-for-help"
+      ],
+      "tags": [
+        "校园",
+        "图书馆",
+        "找书",
+        "求助",
+        "服务台"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文请图书馆工作人员帮你找书。",
+        "requiredWords": [
+          "help",
+          "find",
+          "book"
+        ],
+        "sampleAnswer": "Could you help me find this book?"
+      }
+    },
+    {
+      "id": "campus-feedback-007",
+      "scene": "请求反馈",
+      "phrase": "Could you give me some feedback on my draft?",
+      "meaningZh": "你能给我的草稿一些反馈吗？",
+      "exampleEn": "Could you give me some feedback on my draft? I am not sure if the structure is clear.",
+      "exampleZh": "你能给我的草稿一些反馈吗？我不确定结构是否清楚。",
+      "commonMistakeZh": "不要说 give me some advice to my draft。feedback on my draft 是固定搭配。",
+      "usageNoteZh": "适合论文、演讲稿、简历、项目报告等草稿阶段。",
+      "skills": [
+        "speaking",
+        "feedback-request",
+        "academic-communication",
+        "writing-support"
+      ],
+      "tags": [
+        "校园",
+        "反馈",
+        "草稿",
+        "论文",
+        "写作支持"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文请老师或同学给你的草稿反馈。",
+        "requiredWords": [
+          "feedback",
+          "draft",
+          "could"
+        ],
+        "sampleAnswer": "Could you give me some feedback on my draft?"
+      }
+    },
+    {
+      "id": "campus-participate-008",
+      "scene": "课堂发言",
+      "phrase": "I would like to add one point.",
+      "meaningZh": "我想补充一点。",
+      "exampleEn": "I would like to add one point. This example also shows how culture affects communication.",
+      "exampleZh": "我想补充一点。这个例子也说明文化如何影响沟通。",
+      "commonMistakeZh": "不要突然说 I say something。I would like to add one point 更适合课堂发言。",
+      "usageNoteZh": "适合课堂讨论、小组汇报、线上会议中自然插入观点。",
+      "skills": [
+        "speaking",
+        "discussion",
+        "academic-communication",
+        "opinion-output"
+      ],
+      "tags": [
+        "校园",
+        "课堂发言",
+        "补充观点",
+        "讨论",
+        "表达观点"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文表达你想补充一点。",
+        "requiredWords": [
+          "would like",
+          "add",
+          "point"
+        ],
+        "sampleAnswer": "I would like to add one point."
+      }
+    }
+  ]
+}

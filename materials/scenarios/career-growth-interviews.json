@@ -1,0 +1,296 @@
+{
+  "id": "career-growth-interviews",
+  "kind": "scenario",
+  "title": "职业发展：面试与成长",
+  "level": "B1-B2",
+  "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
+  "domains": [
+    "career",
+    "work",
+    "interview"
+  ],
+  "skills": [
+    "speaking",
+    "career-output",
+    "self-introduction",
+    "achievement-framing",
+    "clarifying"
+  ],
+  "tags": [
+    "职业发展",
+    "面试",
+    "自我介绍",
+    "优势表达",
+    "薪资",
+    "反馈",
+    "成长计划"
+  ],
+  "sources": [
+    "Manual curation; career communication patterns adapted for practical interview and workplace-growth speaking."
+  ],
+  "units": [
+    {
+      "id": "career-intro-001",
+      "scene": "面试自我介绍",
+      "phrase": "I have three years of experience in customer operations.",
+      "meaningZh": "我有三年的客户运营经验。",
+      "exampleEn": "I have three years of experience in customer operations, with a focus on improving response time.",
+      "exampleZh": "我有三年的客户运营经验，重点是提升响应速度。",
+      "commonMistakeZh": "不要说 I have three years experience about customer。experience in 是更自然的搭配。",
+      "usageNoteZh": "适合面试开场、简历说明、职业介绍，把年限和方向说清楚。",
+      "skills": [
+        "speaking",
+        "self-introduction",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "面试",
+        "自我介绍",
+        "工作经验",
+        "客户运营"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说你有某领域三年经验。",
+        "requiredWords": [
+          "three years",
+          "experience",
+          "in"
+        ],
+        "sampleAnswer": "I have three years of experience in customer operations."
+      }
+    },
+    {
+      "id": "career-strength-002",
+      "scene": "表达优势",
+      "phrase": "One of my strengths is solving problems under pressure.",
+      "meaningZh": "我的优势之一是在压力下解决问题。",
+      "exampleEn": "One of my strengths is solving problems under pressure, especially when customers need a quick answer.",
+      "exampleZh": "我的优势之一是在压力下解决问题，尤其是客户需要快速答复时。",
+      "commonMistakeZh": "不要说 my advantage is solve problem。strength 更适合描述个人优势，solving 要用动名词。",
+      "usageNoteZh": "适合面试回答优势、述职、晋升沟通。",
+      "skills": [
+        "speaking",
+        "strength-framing",
+        "achievement-framing",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "优势表达",
+        "压力",
+        "解决问题",
+        "面试"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文表达你的优势之一是在压力下解决问题。",
+        "requiredWords": [
+          "strengths",
+          "solving",
+          "pressure"
+        ],
+        "sampleAnswer": "One of my strengths is solving problems under pressure."
+      }
+    },
+    {
+      "id": "career-achievement-003",
+      "scene": "说明成果",
+      "phrase": "I helped reduce the response time by twenty percent.",
+      "meaningZh": "我帮助把响应时间降低了 20%。",
+      "exampleEn": "I helped reduce the response time by twenty percent by improving our reply templates.",
+      "exampleZh": "我通过优化回复模板，帮助把响应时间降低了 20%。",
+      "commonMistakeZh": "不要只说 I made it better。面试里要用具体结果，reduce by twenty percent 很有说服力。",
+      "usageNoteZh": "适合讲项目成果、简历亮点、绩效复盘。",
+      "skills": [
+        "speaking",
+        "achievement-framing",
+        "data-storytelling",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "成果表达",
+        "数据",
+        "响应时间",
+        "绩效"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说你帮助把响应时间降低了 20%。",
+        "requiredWords": [
+          "helped",
+          "reduce",
+          "twenty percent"
+        ],
+        "sampleAnswer": "I helped reduce the response time by twenty percent."
+      }
+    },
+    {
+      "id": "career-question-004",
+      "scene": "反问岗位重点",
+      "phrase": "What would be the top priority for this role in the first three months?",
+      "meaningZh": "这个岗位前三个月最重要的优先事项是什么？",
+      "exampleEn": "What would be the top priority for this role in the first three months? I would like to understand the expectations clearly.",
+      "exampleZh": "这个岗位前三个月最重要的优先事项是什么？我想清楚了解期望。",
+      "commonMistakeZh": "不要只问 what should I do。top priority for this role 更专业。",
+      "usageNoteZh": "适合面试尾声反问，用来了解岗位目标和考核重点。",
+      "skills": [
+        "speaking",
+        "clarifying",
+        "career-output",
+        "interview-question"
+      ],
+      "tags": [
+        "职业发展",
+        "面试反问",
+        "岗位优先级",
+        "前三个月",
+        "期望"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文问这个岗位前三个月的首要重点。",
+        "requiredWords": [
+          "top priority",
+          "role",
+          "three months"
+        ],
+        "sampleAnswer": "What would be the top priority for this role in the first three months?"
+      }
+    },
+    {
+      "id": "career-feedback-005",
+      "scene": "请求反馈",
+      "phrase": "Could you share any feedback on my interview?",
+      "meaningZh": "你能分享一下对我面试表现的反馈吗？",
+      "exampleEn": "Could you share any feedback on my interview? I would like to keep improving.",
+      "exampleZh": "你能分享一下对我面试表现的反馈吗？我想持续改进。",
+      "commonMistakeZh": "不要说 tell me my interview problem。feedback on my interview 更礼貌也更专业。",
+      "usageNoteZh": "适合面试后、内部转岗、模拟面试后请求反馈。",
+      "skills": [
+        "speaking",
+        "feedback-request",
+        "career-output",
+        "growth-mindset"
+      ],
+      "tags": [
+        "职业发展",
+        "面试反馈",
+        "改进",
+        "反馈请求",
+        "成长"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文请求对方面试反馈。",
+        "requiredWords": [
+          "share",
+          "feedback",
+          "interview"
+        ],
+        "sampleAnswer": "Could you share any feedback on my interview?"
+      }
+    },
+    {
+      "id": "career-salary-006",
+      "scene": "讨论薪资范围",
+      "phrase": "Could you tell me the salary range for this position?",
+      "meaningZh": "你能告诉我这个岗位的薪资范围吗？",
+      "exampleEn": "Could you tell me the salary range for this position? I want to make sure our expectations are aligned.",
+      "exampleZh": "你能告诉我这个岗位的薪资范围吗？我想确认双方期望一致。",
+      "commonMistakeZh": "不要直接说 how much money you give。salary range for this position 更专业。",
+      "usageNoteZh": "适合面试中后段或 HR 沟通阶段，语气保持礼貌和职业化。",
+      "skills": [
+        "speaking",
+        "compensation",
+        "polite-request",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "薪资",
+        "岗位",
+        "期望一致",
+        "HR沟通"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文询问这个岗位的薪资范围。",
+        "requiredWords": [
+          "salary",
+          "range",
+          "position"
+        ],
+        "sampleAnswer": "Could you tell me the salary range for this position?"
+      }
+    },
+    {
+      "id": "career-growth-007",
+      "scene": "表达成长目标",
+      "phrase": "I am looking for a role where I can keep learning and take on more responsibility.",
+      "meaningZh": "我在寻找一个能持续学习并承担更多责任的岗位。",
+      "exampleEn": "I am looking for a role where I can keep learning and take on more responsibility over time.",
+      "exampleZh": "我在寻找一个能持续学习，并随着时间承担更多责任的岗位。",
+      "commonMistakeZh": "不要说 I want bigger job。take on more responsibility 更成熟职业化。",
+      "usageNoteZh": "适合解释求职动机、职业规划、内部晋升意愿。",
+      "skills": [
+        "speaking",
+        "career-output",
+        "growth-mindset",
+        "motivation"
+      ],
+      "tags": [
+        "职业发展",
+        "成长目标",
+        "学习",
+        "责任",
+        "职业规划"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文表达你想找一个能持续学习并承担更多责任的岗位。",
+        "requiredWords": [
+          "keep learning",
+          "take on",
+          "responsibility"
+        ],
+        "sampleAnswer": "I am looking for a role where I can keep learning and take on more responsibility."
+      }
+    },
+    {
+      "id": "career-followup-008",
+      "scene": "面试后跟进",
+      "phrase": "I wanted to follow up on the next steps.",
+      "meaningZh": "我想跟进一下后续流程。",
+      "exampleEn": "I wanted to follow up on the next steps. Please let me know if you need any additional information.",
+      "exampleZh": "我想跟进一下后续流程。如果需要任何补充信息，请告诉我。",
+      "commonMistakeZh": "不要说 ask next。follow up on the next steps 是面试后邮件或消息常用表达。",
+      "usageNoteZh": "适合面试后邮件、HR 消息、内部申请进度跟进。",
+      "skills": [
+        "speaking",
+        "follow-up",
+        "career-output",
+        "professional-message"
+      ],
+      "tags": [
+        "职业发展",
+        "跟进",
+        "后续流程",
+        "面试后",
+        "补充信息"
+      ],
+      "quiz": {
+        "type": "OUTPUT",
+        "promptZh": "用英文说你想跟进后续流程。",
+        "requiredWords": [
+          "follow up",
+          "next",
+          "steps"
+        ],
+        "sampleAnswer": "I wanted to follow up on the next steps."
+      }
+    }
+  ]
+}
