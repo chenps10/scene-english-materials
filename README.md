@@ -23,3 +23,13 @@ Scene English 的轻量材料库。应用按需从 GitHub Raw 拉取这里的 JS
 - `materials/scenarios/*.json`: 场景训练包。
 - `materials/vocabulary/*.json`: 单词训练包。
 - `sources/open-sources.md`: 开放素材来源和授权记录。
+
+## 推荐元数据
+
+`manifest.json` 和每个材料包都维护轻量结构化元数据，供 App 做弱项推荐和覆盖分析：
+
+- `domains`: 内容场景域，例如 `life`、`travel`、`work`、`commerce`。
+- `skills`: 训练能力，例如 `speaking`、`spelling`、`problem-reporting`、`meaning-recall`。
+- `tags`: 中文/英文主题标签，例如 `退款`、`会议`、`词义`。
+
+单元级材料也可以带 `skills` 和 `tags`，用于后续更细颗粒的推荐。不要在这里存音频、视频或大文件。

@@ -4,7 +4,9 @@
   "title": "旅游场景：问题处理",
   "level": "A2-B1",
   "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
-  "sources": ["Manual curation with public travel phrase references checked for naturalness."],
+  "sources": [
+    "Manual curation with public travel phrase references checked for naturalness."
+  ],
   "units": [
     {
       "id": "travel-bag-001",
@@ -18,9 +20,32 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文说明你的行李还没到。",
-        "requiredWords": ["luggage", "arrived", "yet"],
+        "requiredWords": [
+          "luggage",
+          "arrived",
+          "yet"
+        ],
         "sampleAnswer": "My luggage has not arrived yet."
-      }
+      },
+      "tags": [
+        "旅游",
+        "机场",
+        "酒店",
+        "交通",
+        "退款",
+        "遗失物品",
+        "医疗",
+        "突发情况",
+        "行李延误",
+        "旅行问题"
+      ],
+      "skills": [
+        "speaking",
+        "service-counter",
+        "problem-reporting",
+        "polite-request",
+        "scenario-output"
+      ]
     },
     {
       "id": "travel-room-002",
@@ -34,9 +59,33 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文礼貌反馈房间有问题。",
-        "requiredWords": ["problem", "with", "room"],
+        "requiredWords": [
+          "problem",
+          "with",
+          "room"
+        ],
         "sampleAnswer": "There seems to be a problem with the room."
-      }
+      },
+      "tags": [
+        "旅游",
+        "机场",
+        "酒店",
+        "交通",
+        "退款",
+        "遗失物品",
+        "医疗",
+        "突发情况",
+        "酒店房间问题",
+        "旅行问题",
+        "问题处理"
+      ],
+      "skills": [
+        "speaking",
+        "service-counter",
+        "problem-reporting",
+        "polite-request",
+        "scenario-output"
+      ]
     },
     {
       "id": "travel-route-003",
@@ -50,9 +99,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文问去市中心坐哪条线。",
-        "requiredWords": ["line", "take", "downtown"],
+        "requiredWords": [
+          "line",
+          "take",
+          "downtown"
+        ],
         "sampleAnswer": "Which line should I take to get downtown?"
-      }
+      },
+      "tags": [
+        "旅游",
+        "机场",
+        "酒店",
+        "交通",
+        "退款",
+        "遗失物品",
+        "医疗",
+        "突发情况",
+        "交通路线"
+      ],
+      "skills": [
+        "speaking",
+        "service-counter",
+        "problem-reporting",
+        "polite-request",
+        "scenario-output"
+      ]
     },
     {
       "id": "travel-delay-004",
@@ -66,9 +137,32 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文询问航班是否延误。",
-        "requiredWords": ["flight", "been", "delayed"],
+        "requiredWords": [
+          "flight",
+          "been",
+          "delayed"
+        ],
         "sampleAnswer": "Has the flight been delayed?"
-      }
+      },
+      "tags": [
+        "旅游",
+        "机场",
+        "酒店",
+        "交通",
+        "退款",
+        "遗失物品",
+        "医疗",
+        "突发情况",
+        "航班延误",
+        "旅行问题"
+      ],
+      "skills": [
+        "speaking",
+        "service-counter",
+        "problem-reporting",
+        "polite-request",
+        "scenario-output"
+      ]
     },
     {
       "id": "travel-refund-005",
@@ -82,9 +176,30 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文礼貌询问是否可以退款。",
-        "requiredWords": ["possible", "get", "refund"],
+        "requiredWords": [
+          "possible",
+          "get",
+          "refund"
+        ],
         "sampleAnswer": "Is it possible to get a refund?"
-      }
+      },
+      "tags": [
+        "旅游",
+        "机场",
+        "酒店",
+        "交通",
+        "退款",
+        "遗失物品",
+        "医疗",
+        "突发情况"
+      ],
+      "skills": [
+        "speaking",
+        "service-counter",
+        "problem-reporting",
+        "polite-request",
+        "scenario-output"
+      ]
     },
     {
       "id": "travel-lost-006",
@@ -98,9 +213,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文说明钱包可能落在出租车上。",
-        "requiredWords": ["left", "wallet", "taxi"],
+        "requiredWords": [
+          "left",
+          "wallet",
+          "taxi"
+        ],
         "sampleAnswer": "I think I left my wallet in the taxi."
-      }
+      },
+      "tags": [
+        "旅游",
+        "机场",
+        "酒店",
+        "交通",
+        "退款",
+        "遗失物品",
+        "医疗",
+        "突发情况",
+        "旅行问题"
+      ],
+      "skills": [
+        "speaking",
+        "service-counter",
+        "problem-reporting",
+        "polite-request",
+        "scenario-output"
+      ]
     },
     {
       "id": "travel-medical-007",
@@ -114,9 +251,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文说你感觉不舒服。",
-        "requiredWords": ["not", "feeling", "well"],
+        "requiredWords": [
+          "not",
+          "feeling",
+          "well"
+        ],
         "sampleAnswer": "I am not feeling well."
-      }
+      },
+      "tags": [
+        "旅游",
+        "机场",
+        "酒店",
+        "交通",
+        "退款",
+        "遗失物品",
+        "医疗",
+        "突发情况",
+        "身体不舒服"
+      ],
+      "skills": [
+        "speaking",
+        "service-counter",
+        "problem-reporting",
+        "polite-request",
+        "scenario-output"
+      ]
     },
     {
       "id": "travel-safety-008",
@@ -130,9 +289,52 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文询问这个区域晚上是否安全。",
-        "requiredWords": ["area", "safe", "night"],
+        "requiredWords": [
+          "area",
+          "safe",
+          "night"
+        ],
         "sampleAnswer": "Is this area safe at night?"
-      }
+      },
+      "tags": [
+        "旅游",
+        "机场",
+        "酒店",
+        "交通",
+        "退款",
+        "遗失物品",
+        "医疗",
+        "突发情况",
+        "安全确认",
+        "旅行问题"
+      ],
+      "skills": [
+        "speaking",
+        "service-counter",
+        "problem-reporting",
+        "polite-request",
+        "scenario-output"
+      ]
     }
+  ],
+  "domains": [
+    "travel",
+    "problem-solving"
+  ],
+  "skills": [
+    "speaking",
+    "service-counter",
+    "problem-reporting",
+    "polite-request"
+  ],
+  "tags": [
+    "旅游",
+    "机场",
+    "酒店",
+    "交通",
+    "退款",
+    "遗失物品",
+    "医疗",
+    "突发情况"
   ]
 }

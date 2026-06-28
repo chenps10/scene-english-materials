@@ -4,7 +4,9 @@
   "title": "工作场景：会议基础",
   "level": "B1-B2",
   "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
-  "sources": ["Manual curation; workplace phrase patterns cross-checked against natural business usage."],
+  "sources": [
+    "Manual curation; workplace phrase patterns cross-checked against natural business usage."
+  ],
   "units": [
     {
       "id": "work-opinion-001",
@@ -18,9 +20,30 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文表达“从我的角度看，我们应该先从用户开始”。",
-        "requiredWords": ["point", "view", "users"],
+        "requiredWords": [
+          "point",
+          "view",
+          "users"
+        ],
         "sampleAnswer": "From my point of view, we should start with the users."
-      }
+      },
+      "tags": [
+        "工作",
+        "会议",
+        "表达观点",
+        "澄清需求",
+        "优先级",
+        "推进下一步",
+        "同步进度"
+      ],
+      "skills": [
+        "speaking",
+        "clarifying",
+        "prioritizing",
+        "collaboration",
+        "workplace-output",
+        "scenario-output"
+      ]
     },
     {
       "id": "work-clarify-002",
@@ -34,9 +57,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文请对方澄清成功标准。",
-        "requiredWords": ["clarify", "success", "looks"],
+        "requiredWords": [
+          "clarify",
+          "success",
+          "looks"
+        ],
         "sampleAnswer": "Could you clarify what success looks like?"
-      }
+      },
+      "tags": [
+        "工作",
+        "会议",
+        "表达观点",
+        "澄清需求",
+        "优先级",
+        "推进下一步",
+        "同步进度",
+        "工作沟通"
+      ],
+      "skills": [
+        "speaking",
+        "clarifying",
+        "prioritizing",
+        "collaboration",
+        "workplace-output",
+        "scenario-output"
+      ]
     },
     {
       "id": "work-priority-003",
@@ -50,9 +95,32 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文确认这周优先处理哪个任务。",
-        "requiredWords": ["task", "prioritize", "week"],
+        "requiredWords": [
+          "task",
+          "prioritize",
+          "week"
+        ],
         "sampleAnswer": "Which task should we prioritize this week?"
-      }
+      },
+      "tags": [
+        "工作",
+        "会议",
+        "表达观点",
+        "澄清需求",
+        "优先级",
+        "推进下一步",
+        "同步进度",
+        "确认优先级",
+        "工作沟通"
+      ],
+      "skills": [
+        "speaking",
+        "clarifying",
+        "prioritizing",
+        "collaboration",
+        "workplace-output",
+        "scenario-output"
+      ]
     },
     {
       "id": "work-next-step-004",
@@ -66,9 +134,29 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文询问下一步行动。",
-        "requiredWords": ["next", "step"],
+        "requiredWords": [
+          "next",
+          "step"
+        ],
         "sampleAnswer": "What would be the next step?"
-      }
+      },
+      "tags": [
+        "工作",
+        "会议",
+        "表达观点",
+        "澄清需求",
+        "优先级",
+        "推进下一步",
+        "同步进度"
+      ],
+      "skills": [
+        "speaking",
+        "clarifying",
+        "prioritizing",
+        "collaboration",
+        "workplace-output",
+        "scenario-output"
+      ]
     },
     {
       "id": "work-agree-005",
@@ -82,9 +170,30 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文表达部分同意并提出一个顾虑。",
-        "requiredWords": ["agree", "concern"],
+        "requiredWords": [
+          "agree",
+          "concern"
+        ],
         "sampleAnswer": "I agree with the main idea, but I have one concern."
-      }
+      },
+      "tags": [
+        "工作",
+        "会议",
+        "表达观点",
+        "澄清需求",
+        "优先级",
+        "推进下一步",
+        "同步进度",
+        "部分同意"
+      ],
+      "skills": [
+        "speaking",
+        "clarifying",
+        "prioritizing",
+        "collaboration",
+        "workplace-output",
+        "scenario-output"
+      ]
     },
     {
       "id": "work-update-006",
@@ -98,9 +207,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文开头同步项目进展。",
-        "requiredWords": ["quick", "update", "project"],
+        "requiredWords": [
+          "quick",
+          "update",
+          "project"
+        ],
         "sampleAnswer": "Here is a quick update on the project."
-      }
+      },
+      "tags": [
+        "工作",
+        "会议",
+        "表达观点",
+        "澄清需求",
+        "优先级",
+        "推进下一步",
+        "同步进度",
+        "工作沟通"
+      ],
+      "skills": [
+        "speaking",
+        "clarifying",
+        "prioritizing",
+        "collaboration",
+        "workplace-output",
+        "scenario-output"
+      ]
     },
     {
       "id": "work-owner-007",
@@ -114,9 +245,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文确认谁负责这个任务。",
-        "requiredWords": ["own", "task"],
+        "requiredWords": [
+          "own",
+          "task"
+        ],
         "sampleAnswer": "Who will own this task?"
-      }
+      },
+      "tags": [
+        "工作",
+        "会议",
+        "表达观点",
+        "澄清需求",
+        "优先级",
+        "推进下一步",
+        "同步进度",
+        "确认负责人",
+        "工作沟通"
+      ],
+      "skills": [
+        "speaking",
+        "clarifying",
+        "prioritizing",
+        "collaboration",
+        "workplace-output",
+        "scenario-output"
+      ]
     },
     {
       "id": "work-follow-up-008",
@@ -130,9 +283,52 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文说明会后会跟进总结。",
-        "requiredWords": ["follow", "summary", "meeting"],
+        "requiredWords": [
+          "follow",
+          "summary",
+          "meeting"
+        ],
         "sampleAnswer": "I will follow up with a summary after the meeting."
-      }
+      },
+      "tags": [
+        "工作",
+        "会议",
+        "表达观点",
+        "澄清需求",
+        "优先级",
+        "推进下一步",
+        "同步进度",
+        "会后跟进",
+        "工作沟通"
+      ],
+      "skills": [
+        "speaking",
+        "clarifying",
+        "prioritizing",
+        "collaboration",
+        "workplace-output",
+        "scenario-output"
+      ]
     }
+  ],
+  "domains": [
+    "work",
+    "meeting"
+  ],
+  "skills": [
+    "speaking",
+    "clarifying",
+    "prioritizing",
+    "collaboration",
+    "workplace-output"
+  ],
+  "tags": [
+    "工作",
+    "会议",
+    "表达观点",
+    "澄清需求",
+    "优先级",
+    "推进下一步",
+    "同步进度"
   ]
 }

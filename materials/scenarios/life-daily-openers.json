@@ -4,7 +4,9 @@
   "title": "生活场景：日常开口",
   "level": "A2-B1",
   "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
-  "sources": ["Manual curation; sentence-pattern inspiration checked against Tatoeba-style everyday usage."],
+  "sources": [
+    "Manual curation; sentence-pattern inspiration checked against Tatoeba-style everyday usage."
+  ],
   "units": [
     {
       "id": "life-order-001",
@@ -18,9 +20,32 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "不看例句，用英文说一句你在咖啡店点单的话。",
-        "requiredWords": ["could", "get", "to go"],
+        "requiredWords": [
+          "could",
+          "get",
+          "to go"
+        ],
         "sampleAnswer": "Could I get a latte to go?"
-      }
+      },
+      "tags": [
+        "生活",
+        "日常开口",
+        "点餐",
+        "问路",
+        "求助",
+        "预约",
+        "付款",
+        "等待",
+        "咖啡店点单",
+        "订单"
+      ],
+      "skills": [
+        "speaking",
+        "polite-request",
+        "survival-phrases",
+        "listening-repair",
+        "scenario-output"
+      ]
     },
     {
       "id": "life-help-002",
@@ -34,9 +59,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文向别人礼貌求助。",
-        "requiredWords": ["could", "help", "with"],
+        "requiredWords": [
+          "could",
+          "help",
+          "with"
+        ],
         "sampleAnswer": "Could you help me with this?"
-      }
+      },
+      "tags": [
+        "生活",
+        "日常开口",
+        "点餐",
+        "问路",
+        "求助",
+        "预约",
+        "付款",
+        "等待",
+        "向陌生人求助"
+      ],
+      "skills": [
+        "speaking",
+        "polite-request",
+        "survival-phrases",
+        "listening-repair",
+        "scenario-output"
+      ]
     },
     {
       "id": "life-direction-003",
@@ -50,9 +97,30 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文确认自己是不是走对路。",
-        "requiredWords": ["right", "way", "station"],
+        "requiredWords": [
+          "right",
+          "way",
+          "station"
+        ],
         "sampleAnswer": "Is this the right way to the station?"
-      }
+      },
+      "tags": [
+        "生活",
+        "日常开口",
+        "点餐",
+        "问路",
+        "求助",
+        "预约",
+        "付款",
+        "等待"
+      ],
+      "skills": [
+        "speaking",
+        "polite-request",
+        "survival-phrases",
+        "listening-repair",
+        "scenario-output"
+      ]
     },
     {
       "id": "life-appointment-004",
@@ -66,9 +134,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文询问今天下午是否有预约空档。",
-        "requiredWords": ["time", "available", "afternoon"],
+        "requiredWords": [
+          "time",
+          "available",
+          "afternoon"
+        ],
         "sampleAnswer": "Do you have any time available this afternoon?"
-      }
+      },
+      "tags": [
+        "生活",
+        "日常开口",
+        "点餐",
+        "问路",
+        "求助",
+        "预约",
+        "付款",
+        "等待",
+        "预约时间"
+      ],
+      "skills": [
+        "speaking",
+        "polite-request",
+        "survival-phrases",
+        "listening-repair",
+        "scenario-output"
+      ]
     },
     {
       "id": "life-repeat-005",
@@ -82,9 +172,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文请对方慢一点再说一次。",
-        "requiredWords": ["say", "again", "slowly"],
+        "requiredWords": [
+          "say",
+          "again",
+          "slowly"
+        ],
         "sampleAnswer": "Could you say that again more slowly?"
-      }
+      },
+      "tags": [
+        "生活",
+        "日常开口",
+        "点餐",
+        "问路",
+        "求助",
+        "预约",
+        "付款",
+        "等待",
+        "没听清"
+      ],
+      "skills": [
+        "speaking",
+        "polite-request",
+        "survival-phrases",
+        "listening-repair",
+        "scenario-output"
+      ]
     },
     {
       "id": "life-payment-006",
@@ -98,9 +210,30 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文问是否可以刷卡。",
-        "requiredWords": ["pay", "by", "card"],
+        "requiredWords": [
+          "pay",
+          "by",
+          "card"
+        ],
         "sampleAnswer": "Can I pay by card?"
-      }
+      },
+      "tags": [
+        "生活",
+        "日常开口",
+        "点餐",
+        "问路",
+        "求助",
+        "预约",
+        "付款",
+        "等待"
+      ],
+      "skills": [
+        "speaking",
+        "polite-request",
+        "survival-phrases",
+        "listening-repair",
+        "scenario-output"
+      ]
     },
     {
       "id": "life-wait-007",
@@ -114,9 +247,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文询问需要等多久。",
-        "requiredWords": ["how", "long", "wait"],
+        "requiredWords": [
+          "how",
+          "long",
+          "wait"
+        ],
         "sampleAnswer": "How long is the wait?"
-      }
+      },
+      "tags": [
+        "生活",
+        "日常开口",
+        "点餐",
+        "问路",
+        "求助",
+        "预约",
+        "付款",
+        "等待",
+        "询问等待时间"
+      ],
+      "skills": [
+        "speaking",
+        "polite-request",
+        "survival-phrases",
+        "listening-repair",
+        "scenario-output"
+      ]
     },
     {
       "id": "life-confirm-008",
@@ -130,9 +285,51 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文表达“我确认一下我理解得对不对”。",
-        "requiredWords": ["make", "sure", "understood"],
+        "requiredWords": [
+          "make",
+          "sure",
+          "understood"
+        ],
         "sampleAnswer": "Let me make sure I understood correctly."
-      }
+      },
+      "tags": [
+        "生活",
+        "日常开口",
+        "点餐",
+        "问路",
+        "求助",
+        "预约",
+        "付款",
+        "等待",
+        "确认信息"
+      ],
+      "skills": [
+        "speaking",
+        "polite-request",
+        "survival-phrases",
+        "listening-repair",
+        "scenario-output"
+      ]
     }
+  ],
+  "domains": [
+    "life",
+    "daily-service"
+  ],
+  "skills": [
+    "speaking",
+    "polite-request",
+    "survival-phrases",
+    "listening-repair"
+  ],
+  "tags": [
+    "生活",
+    "日常开口",
+    "点餐",
+    "问路",
+    "求助",
+    "预约",
+    "付款",
+    "等待"
   ]
 }

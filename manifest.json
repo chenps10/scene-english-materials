@@ -1,5 +1,5 @@
 {
-  "version": "2026.06.28-001",
+  "version": "2026.06.28-002",
   "product": "Scene English",
   "language": "zh-CN",
   "updatedAt": "2026-06-28",
@@ -15,7 +15,27 @@
       "summary": "点餐、问路、求助、预约等最常用开口句。",
       "level": "A2-B1",
       "unitCount": 8,
-      "url": "materials/scenarios/life-daily-openers.json"
+      "url": "materials/scenarios/life-daily-openers.json",
+      "domains": [
+        "life",
+        "daily-service"
+      ],
+      "skills": [
+        "speaking",
+        "polite-request",
+        "survival-phrases",
+        "listening-repair"
+      ],
+      "tags": [
+        "生活",
+        "日常开口",
+        "点餐",
+        "问路",
+        "求助",
+        "预约",
+        "付款",
+        "等待"
+      ]
     },
     {
       "id": "travel-problem-solving",
@@ -24,7 +44,27 @@
       "summary": "机场、酒店、交通、行李和突发情况。",
       "level": "A2-B1",
       "unitCount": 8,
-      "url": "materials/scenarios/travel-problem-solving.json"
+      "url": "materials/scenarios/travel-problem-solving.json",
+      "domains": [
+        "travel",
+        "problem-solving"
+      ],
+      "skills": [
+        "speaking",
+        "service-counter",
+        "problem-reporting",
+        "polite-request"
+      ],
+      "tags": [
+        "旅游",
+        "机场",
+        "酒店",
+        "交通",
+        "退款",
+        "遗失物品",
+        "医疗",
+        "突发情况"
+      ]
     },
     {
       "id": "work-meeting-basics",
@@ -33,7 +73,27 @@
       "summary": "表达观点、确认任务、推进下一步。",
       "level": "B1-B2",
       "unitCount": 8,
-      "url": "materials/scenarios/work-meeting-basics.json"
+      "url": "materials/scenarios/work-meeting-basics.json",
+      "domains": [
+        "work",
+        "meeting"
+      ],
+      "skills": [
+        "speaking",
+        "clarifying",
+        "prioritizing",
+        "collaboration",
+        "workplace-output"
+      ],
+      "tags": [
+        "工作",
+        "会议",
+        "表达观点",
+        "澄清需求",
+        "优先级",
+        "推进下一步",
+        "同步进度"
+      ]
     },
     {
       "id": "commerce-after-sales",
@@ -42,7 +102,29 @@
       "summary": "退换货、退款、质量反馈和礼貌协商。",
       "level": "B1",
       "unitCount": 8,
-      "url": "materials/scenarios/commerce-after-sales.json"
+      "url": "materials/scenarios/commerce-after-sales.json",
+      "domains": [
+        "commerce",
+        "shopping",
+        "customer-service"
+      ],
+      "skills": [
+        "speaking",
+        "problem-reporting",
+        "negotiation",
+        "polite-request",
+        "ecommerce-service"
+      ],
+      "tags": [
+        "购物",
+        "商业",
+        "售后",
+        "退货",
+        "退款",
+        "质量问题",
+        "换货",
+        "订单状态"
+      ]
     },
     {
       "id": "core-scene-vocabulary-120",
@@ -51,7 +133,32 @@
       "summary": "生活、旅游、工作、商业四类高频核心词，带词族和搭配。",
       "level": "A2-B2",
       "unitCount": 40,
-      "url": "materials/vocabulary/core-scene-vocabulary-120.json"
+      "url": "materials/vocabulary/core-scene-vocabulary-120.json",
+      "domains": [
+        "life",
+        "travel",
+        "work",
+        "commerce",
+        "vocabulary-core"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ],
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业"
+      ]
     }
   ],
   "sources": [
@@ -59,5 +166,10 @@
     "https://github.com/globalwordnet/english-wordnet",
     "https://wordnet.princeton.edu/license-and-commercial-use",
     "https://en.wiktionary.org/wiki/Wiktionary:Copyrights"
-  ]
+  ],
+  "metadataSchema": {
+    "domains": "学习场景/内容域，用于推荐和覆盖分析。",
+    "skills": "训练能力标签，例如 speaking、spelling、problem-reporting。",
+    "tags": "中英文可检索主题标签，用于弱项匹配。"
+  }
 }

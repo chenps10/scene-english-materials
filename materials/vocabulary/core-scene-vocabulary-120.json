@@ -26,7 +26,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：可用的；有空的",
         "answer": "available"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "可用的；有空的",
+        "available time",
+        "available option"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-002",
@@ -47,7 +68,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：确认",
         "answer": "confirm"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "确认",
+        "预约",
+        "confirm details",
+        "confirm a booking"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-003",
@@ -68,7 +111,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：请求；要求",
         "answer": "request"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "请求；要求",
+        "退款",
+        "make a request",
+        "refund request"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-004",
@@ -89,7 +154,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：推荐；建议",
         "answer": "recommend"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "推荐；建议",
+        "recommend a route",
+        "highly recommend"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-005",
@@ -110,7 +196,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：安排",
         "answer": "arrange"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "安排",
+        "arrange delivery",
+        "arrange a meeting"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-006",
@@ -131,7 +238,31 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：问题",
         "answer": "issue"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "问题",
+        "订单",
+        "问题处理",
+        "technical issue",
+        "quality issue"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family",
+        "problem-reporting"
+      ]
     },
     {
       "id": "core-vocab-007",
@@ -152,7 +283,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：退款",
         "answer": "refund"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "退款",
+        "get a refund",
+        "process a refund"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-008",
@@ -173,7 +325,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：替换品；补发品",
         "answer": "replacement"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "替换品；补发品",
+        "send a replacement",
+        "replacement part"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-009",
@@ -194,7 +367,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：延误；推迟",
         "answer": "delay"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "延误；推迟",
+        "旅行问题",
+        "flight delay",
+        "delayed delivery"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-010",
@@ -214,7 +409,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：目的地",
         "answer": "destination"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "目的地",
+        "travel destination",
+        "final destination"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-011",
@@ -234,7 +450,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：市中心",
         "answer": "downtown"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "市中心",
+        "go downtown",
+        "downtown area"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-012",
@@ -254,7 +491,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：换乘；转移",
         "answer": "transfer"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "换乘；转移",
+        "transfer station",
+        "bank transfer"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-013",
@@ -275,7 +533,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：预约",
         "answer": "appointment"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "预约",
+        "doctor appointment",
+        "make an appointment"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-014",
@@ -295,7 +574,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：可预约/有空",
         "answer": "available"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "可预约/有空",
+        "预约",
+        "available slot",
+        "available room"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-015",
@@ -315,7 +616,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：优先事项",
         "answer": "priority"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "优先事项",
+        "工作沟通",
+        "top priority",
+        "priority list"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-016",
@@ -336,7 +659,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：澄清；说明",
         "answer": "clarify"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "澄清；说明",
+        "工作沟通",
+        "clarify requirements",
+        "clarify meaning"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-017",
@@ -356,7 +701,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：总结",
         "answer": "summary"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "总结",
+        "meeting summary",
+        "quick summary"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-018",
@@ -376,7 +742,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：顾虑；担心",
         "answer": "concern"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "顾虑；担心",
+        "main concern",
+        "safety concern"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-019",
@@ -397,7 +784,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：时间线；时间安排",
         "answer": "timeline"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "时间线；时间安排",
+        "project timeline",
+        "tight timeline"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-020",
@@ -417,7 +825,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：更新；同步",
         "answer": "update"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "更新；同步",
+        "status update",
+        "update someone"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-021",
@@ -437,7 +866,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：政策；规则",
         "answer": "policy"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "政策；规则",
+        "退货",
+        "return policy",
+        "company policy"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-022",
@@ -457,7 +908,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：证明",
         "answer": "proof"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "证明",
+        "proof of purchase",
+        "proof of issue"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-023",
@@ -477,7 +949,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：状态",
         "answer": "status"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "状态",
+        "订单",
+        "order status",
+        "flight status"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-024",
@@ -498,7 +992,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：解决方案",
         "answer": "solution"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "解决方案",
+        "practical solution",
+        "offer a solution"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-025",
@@ -518,7 +1033,30 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：损坏的",
         "answer": "damaged"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "损坏的",
+        "问题处理",
+        "damaged item",
+        "damaged package"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family",
+        "problem-reporting"
+      ]
     },
     {
       "id": "core-vocab-026",
@@ -538,7 +1076,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：行李",
         "answer": "luggage"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "行李",
+        "旅行问题",
+        "checked luggage",
+        "lost luggage"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-027",
@@ -558,7 +1118,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：诊所",
         "answer": "clinic"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "诊所",
+        "nearby clinic",
+        "walk-in clinic"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-028",
@@ -579,7 +1160,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：安全的",
         "answer": "safe"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "安全的",
+        "safe area",
+        "feel safe"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-029",
@@ -599,7 +1201,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：收据",
         "answer": "receipt"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "收据",
+        "paper receipt",
+        "digital receipt"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-030",
@@ -619,7 +1242,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：现金",
         "answer": "cash"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "现金",
+        "pay cash",
+        "cash payment"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-031",
@@ -639,7 +1283,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：方向",
         "answer": "direction"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "方向",
+        "right direction",
+        "clear directions"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-032",
@@ -659,7 +1324,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：机器",
         "answer": "machine"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "机器",
+        "ticket machine",
+        "vending machine"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-033",
@@ -679,7 +1365,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：截止日期",
         "answer": "deadline"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "截止日期",
+        "工作沟通",
+        "meet a deadline",
+        "tight deadline"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-034",
@@ -699,7 +1407,29 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：负责人；所有者",
         "answer": "owner"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "负责人；所有者",
+        "工作沟通",
+        "task owner",
+        "product owner"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-035",
@@ -719,7 +1449,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：草稿",
         "answer": "draft"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "草稿",
+        "first draft",
+        "draft version"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-036",
@@ -739,7 +1490,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：功能；特点",
         "answer": "feature"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "功能；特点",
+        "new feature",
+        "product feature"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-037",
@@ -759,7 +1531,30 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：顾客；客户",
         "answer": "customer"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "顾客；客户",
+        "问题处理",
+        "customer service",
+        "customer feedback"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family",
+        "problem-reporting"
+      ]
     },
     {
       "id": "core-vocab-038",
@@ -779,7 +1574,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：配送；交付",
         "answer": "delivery"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "配送；交付",
+        "delivery time",
+        "delivery address"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-039",
@@ -799,7 +1615,28 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：条件；状态",
         "answer": "condition"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "条件；状态",
+        "return condition",
+        "good condition"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family"
+      ]
     },
     {
       "id": "core-vocab-040",
@@ -819,7 +1656,55 @@
         "type": "SPELLING",
         "promptZh": "根据中文写出英文单词：证据",
         "answer": "evidence"
-      }
+      },
+      "tags": [
+        "单词",
+        "拼写",
+        "词义",
+        "词族",
+        "搭配",
+        "生活",
+        "旅游",
+        "工作",
+        "商业",
+        "证据",
+        "问题处理",
+        "clear evidence",
+        "supporting evidence"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "word-family",
+        "problem-reporting"
+      ]
     }
+  ],
+  "domains": [
+    "life",
+    "travel",
+    "work",
+    "commerce",
+    "vocabulary-core"
+  ],
+  "skills": [
+    "vocabulary",
+    "spelling",
+    "meaning-recall",
+    "collocation",
+    "word-family"
+  ],
+  "tags": [
+    "单词",
+    "拼写",
+    "词义",
+    "词族",
+    "搭配",
+    "生活",
+    "旅游",
+    "工作",
+    "商业"
   ]
 }

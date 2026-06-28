@@ -4,7 +4,9 @@
   "title": "购物商业：售后沟通",
   "level": "B1",
   "method": "学习 -> 测验 -> 跟读 -> 通过后进入下一句",
-  "sources": ["Manual curation based on common ecommerce and customer-service exchanges."],
+  "sources": [
+    "Manual curation based on common ecommerce and customer-service exchanges."
+  ],
   "units": [
     {
       "id": "commerce-return-001",
@@ -18,9 +20,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文说明你想退货。",
-        "requiredWords": ["return", "item"],
+        "requiredWords": [
+          "return",
+          "item"
+        ],
         "sampleAnswer": "I would like to return this item."
-      }
+      },
+      "tags": [
+        "购物",
+        "商业",
+        "售后",
+        "退货",
+        "退款",
+        "质量问题",
+        "换货",
+        "订单状态",
+        "申请退货"
+      ],
+      "skills": [
+        "speaking",
+        "problem-reporting",
+        "negotiation",
+        "polite-request",
+        "ecommerce-service",
+        "scenario-output"
+      ]
     },
     {
       "id": "commerce-refund-002",
@@ -34,9 +58,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文询问退款什么时候处理。",
-        "requiredWords": ["refund", "processed"],
+        "requiredWords": [
+          "refund",
+          "processed"
+        ],
         "sampleAnswer": "When will the refund be processed?"
-      }
+      },
+      "tags": [
+        "购物",
+        "商业",
+        "售后",
+        "退货",
+        "退款",
+        "质量问题",
+        "换货",
+        "订单状态",
+        "确认退款"
+      ],
+      "skills": [
+        "speaking",
+        "problem-reporting",
+        "negotiation",
+        "polite-request",
+        "ecommerce-service",
+        "scenario-output"
+      ]
     },
     {
       "id": "commerce-defect-003",
@@ -50,9 +96,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文说明商品到货损坏。",
-        "requiredWords": ["arrived", "damaged"],
+        "requiredWords": [
+          "arrived",
+          "damaged"
+        ],
         "sampleAnswer": "The item arrived damaged."
-      }
+      },
+      "tags": [
+        "购物",
+        "商业",
+        "售后",
+        "退货",
+        "退款",
+        "质量问题",
+        "换货",
+        "订单状态",
+        "问题处理"
+      ],
+      "skills": [
+        "speaking",
+        "problem-reporting",
+        "negotiation",
+        "polite-request",
+        "ecommerce-service",
+        "scenario-output"
+      ]
     },
     {
       "id": "commerce-replace-004",
@@ -66,9 +134,31 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文礼貌要求补发一个。",
-        "requiredWords": ["send", "replacement"],
+        "requiredWords": [
+          "send",
+          "replacement"
+        ],
         "sampleAnswer": "Could you send a replacement?"
-      }
+      },
+      "tags": [
+        "购物",
+        "商业",
+        "售后",
+        "退货",
+        "退款",
+        "质量问题",
+        "换货",
+        "订单状态",
+        "要求换货"
+      ],
+      "skills": [
+        "speaking",
+        "problem-reporting",
+        "negotiation",
+        "polite-request",
+        "ecommerce-service",
+        "scenario-output"
+      ]
     },
     {
       "id": "commerce-policy-005",
@@ -82,9 +172,32 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文询问退货政策。",
-        "requiredWords": ["explain", "return", "policy"],
+        "requiredWords": [
+          "explain",
+          "return",
+          "policy"
+        ],
         "sampleAnswer": "Could you explain your return policy?"
-      }
+      },
+      "tags": [
+        "购物",
+        "商业",
+        "售后",
+        "退货",
+        "退款",
+        "质量问题",
+        "换货",
+        "订单状态",
+        "询问政策"
+      ],
+      "skills": [
+        "speaking",
+        "problem-reporting",
+        "negotiation",
+        "polite-request",
+        "ecommerce-service",
+        "scenario-output"
+      ]
     },
     {
       "id": "commerce-proof-006",
@@ -98,9 +211,33 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文说明你已经附上问题照片。",
-        "requiredWords": ["attached", "photos", "issue"],
+        "requiredWords": [
+          "attached",
+          "photos",
+          "issue"
+        ],
         "sampleAnswer": "I have attached photos of the issue."
-      }
+      },
+      "tags": [
+        "购物",
+        "商业",
+        "售后",
+        "退货",
+        "退款",
+        "质量问题",
+        "换货",
+        "订单状态",
+        "提供证据",
+        "问题处理"
+      ],
+      "skills": [
+        "speaking",
+        "problem-reporting",
+        "negotiation",
+        "polite-request",
+        "ecommerce-service",
+        "scenario-output"
+      ]
     },
     {
       "id": "commerce-order-007",
@@ -114,9 +251,33 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文请客服查看订单状态。",
-        "requiredWords": ["check", "order", "status"],
+        "requiredWords": [
+          "check",
+          "order",
+          "status"
+        ],
         "sampleAnswer": "Could you check my order status?"
-      }
+      },
+      "tags": [
+        "购物",
+        "商业",
+        "售后",
+        "退货",
+        "退款",
+        "质量问题",
+        "换货",
+        "订单状态",
+        "核对订单",
+        "订单"
+      ],
+      "skills": [
+        "speaking",
+        "problem-reporting",
+        "negotiation",
+        "polite-request",
+        "ecommerce-service",
+        "scenario-output"
+      ]
     },
     {
       "id": "commerce-resolution-008",
@@ -130,9 +291,53 @@
       "quiz": {
         "type": "OUTPUT",
         "promptZh": "用英文询问对方能提供什么解决方案。",
-        "requiredWords": ["solution", "offer"],
+        "requiredWords": [
+          "solution",
+          "offer"
+        ],
         "sampleAnswer": "What solution can you offer?"
-      }
+      },
+      "tags": [
+        "购物",
+        "商业",
+        "售后",
+        "退货",
+        "退款",
+        "质量问题",
+        "换货",
+        "订单状态",
+        "协商解决方案"
+      ],
+      "skills": [
+        "speaking",
+        "problem-reporting",
+        "negotiation",
+        "polite-request",
+        "ecommerce-service",
+        "scenario-output"
+      ]
     }
+  ],
+  "domains": [
+    "commerce",
+    "shopping",
+    "customer-service"
+  ],
+  "skills": [
+    "speaking",
+    "problem-reporting",
+    "negotiation",
+    "polite-request",
+    "ecommerce-service"
+  ],
+  "tags": [
+    "购物",
+    "商业",
+    "售后",
+    "退货",
+    "退款",
+    "质量问题",
+    "换货",
+    "订单状态"
   ]
 }
