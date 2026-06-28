@@ -1,0 +1,430 @@
+{
+  "id": "career-interview-vocabulary-48",
+  "kind": "vocabulary",
+  "title": "职业发展词汇：面试与成长",
+  "level": "B1-B2",
+  "method": "职业词义 -> 拼写回忆 -> 搭配输出 -> 回到面试表达",
+  "domains": [
+    "career",
+    "work",
+    "interview"
+  ],
+  "skills": [
+    "vocabulary",
+    "spelling",
+    "meaning-recall",
+    "collocation",
+    "career-output"
+  ],
+  "tags": [
+    "职业发展",
+    "面试",
+    "自我介绍",
+    "优势表达",
+    "成果量化",
+    "词义",
+    "拼写",
+    "搭配"
+  ],
+  "sources": [
+    "Manual curation linked to career-growth-interviews; word-family inspiration checked against Open English WordNet and Princeton WordNet."
+  ],
+  "units": [
+    {
+      "id": "career-vocab-001",
+      "word": "experience",
+      "partOfSpeech": "n.",
+      "meaningZh": "经验；经历",
+      "exampleEn": "I have three years of experience in customer support.",
+      "exampleZh": "我有三年客户支持经验。",
+      "family": [
+        "experienced",
+        "inexperienced"
+      ],
+      "collocations": [
+        "work experience",
+        "relevant experience"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "self-introduction"
+      ],
+      "tags": [
+        "职业发展",
+        "经验",
+        "自我介绍",
+        "relevant experience"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：经验；经历",
+        "answer": "experience"
+      }
+    },
+    {
+      "id": "career-vocab-002",
+      "word": "strength",
+      "partOfSpeech": "n.",
+      "meaningZh": "优势；强项",
+      "exampleEn": "My main strength is turning unclear requests into clear action steps.",
+      "exampleZh": "我的主要优势是把不清楚的需求转成明确行动步骤。",
+      "family": [
+        "strong",
+        "strengthen"
+      ],
+      "collocations": [
+        "main strength",
+        "professional strength"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "优势",
+        "强项",
+        "main strength"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：优势；强项",
+        "answer": "strength"
+      }
+    },
+    {
+      "id": "career-vocab-003",
+      "word": "achievement",
+      "partOfSpeech": "n.",
+      "meaningZh": "成就；成果",
+      "exampleEn": "One achievement I am proud of is improving response time by 30 percent.",
+      "exampleZh": "我自豪的一个成果是把响应时间提升了 30%。",
+      "family": [
+        "achieve",
+        "achieved"
+      ],
+      "collocations": [
+        "key achievement",
+        "quantify achievements"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "achievement-framing"
+      ],
+      "tags": [
+        "职业发展",
+        "成果",
+        "量化",
+        "key achievement"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：成就；成果",
+        "answer": "achievement"
+      }
+    },
+    {
+      "id": "career-vocab-004",
+      "word": "responsible",
+      "partOfSpeech": "adj.",
+      "meaningZh": "负责的；有责任心的",
+      "exampleEn": "I was responsible for weekly client reports.",
+      "exampleZh": "我负责每周客户报告。",
+      "family": [
+        "responsibility",
+        "responsibly"
+      ],
+      "collocations": [
+        "be responsible for",
+        "responsible person"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "负责",
+        "职责",
+        "be responsible for"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：负责的；有责任心的",
+        "answer": "responsible"
+      }
+    },
+    {
+      "id": "career-vocab-005",
+      "word": "collaborate",
+      "partOfSpeech": "v.",
+      "meaningZh": "协作；合作",
+      "exampleEn": "I often collaborate with design and sales teams.",
+      "exampleZh": "我经常和设计、销售团队协作。",
+      "family": [
+        "collaboration",
+        "collaborative"
+      ],
+      "collocations": [
+        "collaborate with",
+        "cross-team collaboration"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collaboration"
+      ],
+      "tags": [
+        "职业发展",
+        "协作",
+        "团队合作",
+        "collaborate with"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：协作；合作",
+        "answer": "collaborate"
+      }
+    },
+    {
+      "id": "career-vocab-006",
+      "word": "priority",
+      "partOfSpeech": "n.",
+      "meaningZh": "优先事项",
+      "exampleEn": "My first priority would be understanding the team's current workflow.",
+      "exampleZh": "我的第一优先事项会是理解团队当前流程。",
+      "family": [
+        "prioritize",
+        "prioritized"
+      ],
+      "collocations": [
+        "top priority",
+        "set priorities"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "prioritizing"
+      ],
+      "tags": [
+        "职业发展",
+        "优先级",
+        "工作重点",
+        "top priority"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：优先事项",
+        "answer": "priority"
+      }
+    },
+    {
+      "id": "career-vocab-007",
+      "word": "expectation",
+      "partOfSpeech": "n.",
+      "meaningZh": "期待；期望",
+      "exampleEn": "Could you share your expectations for this role?",
+      "exampleZh": "你能分享一下对这个岗位的期待吗？",
+      "family": [
+        "expect",
+        "expected"
+      ],
+      "collocations": [
+        "role expectations",
+        "clear expectations"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "clarifying"
+      ],
+      "tags": [
+        "职业发展",
+        "岗位期待",
+        "澄清",
+        "role expectations"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：期待；期望",
+        "answer": "expectation"
+      }
+    },
+    {
+      "id": "career-vocab-008",
+      "word": "salary",
+      "partOfSpeech": "n.",
+      "meaningZh": "薪资；工资",
+      "exampleEn": "Could you tell me the salary range for this position?",
+      "exampleZh": "你能告诉我这个岗位的薪资范围吗？",
+      "family": [
+        "pay",
+        "compensation"
+      ],
+      "collocations": [
+        "salary range",
+        "expected salary"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "薪资",
+        "工资",
+        "salary range"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：薪资；工资",
+        "answer": "salary"
+      }
+    },
+    {
+      "id": "career-vocab-009",
+      "word": "growth",
+      "partOfSpeech": "n.",
+      "meaningZh": "成长；增长",
+      "exampleEn": "I am looking for a role with room for growth.",
+      "exampleZh": "我在寻找一个有成长空间的岗位。",
+      "family": [
+        "grow",
+        "growing"
+      ],
+      "collocations": [
+        "career growth",
+        "room for growth"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "成长",
+        "职业规划",
+        "career growth"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：成长；增长",
+        "answer": "growth"
+      }
+    },
+    {
+      "id": "career-vocab-010",
+      "word": "challenge",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "挑战",
+      "exampleEn": "I enjoy solving practical business challenges.",
+      "exampleZh": "我喜欢解决实际业务挑战。",
+      "family": [
+        "challenging",
+        "challenged"
+      ],
+      "collocations": [
+        "business challenge",
+        "take on a challenge"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "挑战",
+        "业务问题",
+        "business challenge"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：挑战",
+        "answer": "challenge"
+      }
+    },
+    {
+      "id": "career-vocab-011",
+      "word": "adapt",
+      "partOfSpeech": "v.",
+      "meaningZh": "适应；调整",
+      "exampleEn": "I can adapt quickly when priorities change.",
+      "exampleZh": "优先级变化时，我能快速适应。",
+      "family": [
+        "adaptable",
+        "adaptation"
+      ],
+      "collocations": [
+        "adapt quickly",
+        "adapt to change"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "适应",
+        "变化",
+        "adapt quickly"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：适应；调整",
+        "answer": "adapt"
+      }
+    },
+    {
+      "id": "career-vocab-012",
+      "word": "follow-up",
+      "partOfSpeech": "n.",
+      "meaningZh": "后续跟进",
+      "exampleEn": "I sent a follow-up email after the interview.",
+      "exampleZh": "面试后我发了一封后续跟进邮件。",
+      "family": [
+        "follow up",
+        "following"
+      ],
+      "collocations": [
+        "follow-up email",
+        "follow-up question"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "career-output"
+      ],
+      "tags": [
+        "职业发展",
+        "面试",
+        "跟进",
+        "follow-up email"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文词：后续跟进",
+        "answer": "follow-up"
+      }
+    }
+  ]
+}

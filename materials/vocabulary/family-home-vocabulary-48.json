@@ -1,0 +1,430 @@
+{
+  "id": "family-home-vocabulary-48",
+  "kind": "vocabulary",
+  "title": "家庭沟通词汇：家务与关心",
+  "level": "A2-B1",
+  "method": "家庭场景词义 -> 拼写回忆 -> 搭配输出 -> 回到日常沟通",
+  "domains": [
+    "family",
+    "home",
+    "relationship"
+  ],
+  "skills": [
+    "vocabulary",
+    "spelling",
+    "meaning-recall",
+    "collocation",
+    "emotion-expression"
+  ],
+  "tags": [
+    "家庭",
+    "家务",
+    "照顾家人",
+    "日程协调",
+    "表达关心",
+    "词义",
+    "拼写",
+    "搭配"
+  ],
+  "sources": [
+    "Manual curation linked to family-home-communication; word-family inspiration checked against Open English WordNet and Princeton WordNet."
+  ],
+  "units": [
+    {
+      "id": "family-vocab-001",
+      "word": "chore",
+      "partOfSpeech": "n.",
+      "meaningZh": "家务；杂事",
+      "exampleEn": "Can we split the chores this weekend?",
+      "exampleZh": "这个周末我们能分一下家务吗？",
+      "family": [
+        "housework",
+        "task"
+      ],
+      "collocations": [
+        "do chores",
+        "split the chores"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "daily-coordination"
+      ],
+      "tags": [
+        "家庭",
+        "家务",
+        "分工",
+        "split the chores"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：家务；杂事",
+        "answer": "chore"
+      }
+    },
+    {
+      "id": "family-vocab-002",
+      "word": "laundry",
+      "partOfSpeech": "n.",
+      "meaningZh": "洗衣物；待洗衣物",
+      "exampleEn": "I can do the laundry after dinner.",
+      "exampleZh": "我晚饭后可以洗衣服。",
+      "family": [
+        "wash",
+        "clothes"
+      ],
+      "collocations": [
+        "do the laundry",
+        "fold the laundry"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "daily-coordination"
+      ],
+      "tags": [
+        "家庭",
+        "家务",
+        "洗衣服",
+        "do the laundry"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：洗衣物；待洗衣物",
+        "answer": "laundry"
+      }
+    },
+    {
+      "id": "family-vocab-003",
+      "word": "schedule",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "日程；安排",
+      "exampleEn": "Let's check everyone's schedule first.",
+      "exampleZh": "我们先看一下每个人的日程。",
+      "family": [
+        "scheduled",
+        "reschedule"
+      ],
+      "collocations": [
+        "family schedule",
+        "check the schedule"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "daily-coordination"
+      ],
+      "tags": [
+        "家庭",
+        "日程协调",
+        "安排",
+        "check the schedule"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：日程；安排",
+        "answer": "schedule"
+      }
+    },
+    {
+      "id": "family-vocab-004",
+      "word": "care",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "关心；照顾",
+      "exampleEn": "I know you care about my health.",
+      "exampleZh": "我知道你关心我的健康。",
+      "family": [
+        "caring",
+        "careful"
+      ],
+      "collocations": [
+        "take care of",
+        "care about"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "emotion-expression"
+      ],
+      "tags": [
+        "家庭",
+        "关心",
+        "照顾",
+        "take care of"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：关心；照顾",
+        "answer": "care"
+      }
+    },
+    {
+      "id": "family-vocab-005",
+      "word": "support",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "支持；帮助",
+      "exampleEn": "Thanks for your support this week.",
+      "exampleZh": "谢谢你这周的支持。",
+      "family": [
+        "supportive",
+        "supported"
+      ],
+      "collocations": [
+        "emotional support",
+        "support each other"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "emotion-expression"
+      ],
+      "tags": [
+        "家庭",
+        "支持",
+        "感谢",
+        "support each other"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：支持；帮助",
+        "answer": "support"
+      }
+    },
+    {
+      "id": "family-vocab-006",
+      "word": "responsibility",
+      "partOfSpeech": "n.",
+      "meaningZh": "责任；职责",
+      "exampleEn": "Taking care of the dishes is my responsibility tonight.",
+      "exampleZh": "今晚洗碗是我的责任。",
+      "family": [
+        "responsible",
+        "respond"
+      ],
+      "collocations": [
+        "share responsibility",
+        "family responsibility"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "daily-coordination"
+      ],
+      "tags": [
+        "家庭",
+        "责任",
+        "职责",
+        "share responsibility"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：责任；职责",
+        "answer": "responsibility"
+      }
+    },
+    {
+      "id": "family-vocab-007",
+      "word": "apologize",
+      "partOfSpeech": "v.",
+      "meaningZh": "道歉",
+      "exampleEn": "I want to apologize for speaking too harshly.",
+      "exampleZh": "我想为刚才说话太冲道歉。",
+      "family": [
+        "apology",
+        "apologetic"
+      ],
+      "collocations": [
+        "apologize for",
+        "sincere apology"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "relationship-repair"
+      ],
+      "tags": [
+        "家庭",
+        "道歉",
+        "修复关系",
+        "apologize for"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：道歉",
+        "answer": "apologize"
+      }
+    },
+    {
+      "id": "family-vocab-008",
+      "word": "preference",
+      "partOfSpeech": "n.",
+      "meaningZh": "偏好；喜好",
+      "exampleEn": "Do you have any preference for dinner?",
+      "exampleZh": "晚饭你有什么偏好吗？",
+      "family": [
+        "prefer",
+        "preferred"
+      ],
+      "collocations": [
+        "personal preference",
+        "food preference"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "emotion-expression"
+      ],
+      "tags": [
+        "家庭",
+        "偏好",
+        "晚饭",
+        "food preference"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：偏好；喜好",
+        "answer": "preference"
+      }
+    },
+    {
+      "id": "family-vocab-009",
+      "word": "routine",
+      "partOfSpeech": "n.",
+      "meaningZh": "日常安排；惯例",
+      "exampleEn": "We need a better morning routine.",
+      "exampleZh": "我们需要一个更好的早晨日常安排。",
+      "family": [
+        "regular",
+        "habit"
+      ],
+      "collocations": [
+        "daily routine",
+        "morning routine"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "daily-coordination"
+      ],
+      "tags": [
+        "家庭",
+        "日常安排",
+        "习惯",
+        "morning routine"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：日常安排；惯例",
+        "answer": "routine"
+      }
+    },
+    {
+      "id": "family-vocab-010",
+      "word": "patient",
+      "partOfSpeech": "adj.",
+      "meaningZh": "有耐心的",
+      "exampleEn": "Thank you for being patient with me.",
+      "exampleZh": "谢谢你对我有耐心。",
+      "family": [
+        "patience",
+        "impatient"
+      ],
+      "collocations": [
+        "be patient with",
+        "patient listener"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "relationship-repair"
+      ],
+      "tags": [
+        "家庭",
+        "耐心",
+        "感谢",
+        "be patient with"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：有耐心的",
+        "answer": "patient"
+      }
+    },
+    {
+      "id": "family-vocab-011",
+      "word": "encourage",
+      "partOfSpeech": "v.",
+      "meaningZh": "鼓励",
+      "exampleEn": "Your words really encouraged me.",
+      "exampleZh": "你的话真的鼓励了我。",
+      "family": [
+        "encouragement",
+        "encouraging"
+      ],
+      "collocations": [
+        "encourage someone",
+        "words of encouragement"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "emotion-expression"
+      ],
+      "tags": [
+        "家庭",
+        "鼓励",
+        "表达关心",
+        "words of encouragement"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：鼓励",
+        "answer": "encourage"
+      }
+    },
+    {
+      "id": "family-vocab-012",
+      "word": "appreciate",
+      "partOfSpeech": "v.",
+      "meaningZh": "感谢；珍惜",
+      "exampleEn": "I really appreciate what you did for me.",
+      "exampleZh": "我真的很感谢你为我做的事。",
+      "family": [
+        "appreciation",
+        "appreciated"
+      ],
+      "collocations": [
+        "deeply appreciate",
+        "show appreciation"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "emotion-expression"
+      ],
+      "tags": [
+        "家庭",
+        "感谢",
+        "珍惜",
+        "show appreciation"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：感谢；珍惜",
+        "answer": "appreciate"
+      }
+    }
+  ]
+}

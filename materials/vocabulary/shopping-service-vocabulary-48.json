@@ -1,0 +1,431 @@
+{
+  "id": "shopping-service-vocabulary-48",
+  "kind": "vocabulary",
+  "title": "购物服务词汇：门店与售后",
+  "level": "A2-B1",
+  "method": "购物词义 -> 拼写回忆 -> 搭配输出 -> 回到门店和售后表达",
+  "domains": [
+    "shopping",
+    "life",
+    "customer-service"
+  ],
+  "skills": [
+    "vocabulary",
+    "spelling",
+    "meaning-recall",
+    "collocation",
+    "service-counter"
+  ],
+  "tags": [
+    "购物",
+    "门店",
+    "售后",
+    "试穿",
+    "尺码",
+    "收据",
+    "词义",
+    "拼写",
+    "搭配"
+  ],
+  "sources": [
+    "Manual curation linked to shopping-in-store-service and commerce-after-sales; word-family inspiration checked against Open English WordNet and Princeton WordNet."
+  ],
+  "units": [
+    {
+      "id": "shopping-vocab-001",
+      "word": "size",
+      "partOfSpeech": "n.",
+      "meaningZh": "尺码；大小",
+      "exampleEn": "Do you have this in a smaller size?",
+      "exampleZh": "这个有小一号的吗？",
+      "family": [
+        "sizing",
+        "sized"
+      ],
+      "collocations": [
+        "smaller size",
+        "size chart"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "service-counter"
+      ],
+      "tags": [
+        "购物",
+        "尺码",
+        "门店",
+        "smaller size"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：尺码；大小",
+        "answer": "size"
+      }
+    },
+    {
+      "id": "shopping-vocab-002",
+      "word": "receipt",
+      "partOfSpeech": "n.",
+      "meaningZh": "收据；小票",
+      "exampleEn": "Do I need the receipt for an exchange?",
+      "exampleZh": "换货需要小票吗？",
+      "family": [
+        "proof of purchase",
+        "record"
+      ],
+      "collocations": [
+        "keep the receipt",
+        "show the receipt"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "customer-service"
+      ],
+      "tags": [
+        "购物",
+        "收据",
+        "换货",
+        "keep the receipt"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：收据；小票",
+        "answer": "receipt"
+      }
+    },
+    {
+      "id": "shopping-vocab-003",
+      "word": "exchange",
+      "partOfSpeech": "n./v.",
+      "meaningZh": "换货；交换",
+      "exampleEn": "Can I exchange this for a different color?",
+      "exampleZh": "我可以把这个换成别的颜色吗？",
+      "family": [
+        "exchanged",
+        "exchangeable"
+      ],
+      "collocations": [
+        "exchange an item",
+        "exchange policy"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "customer-service"
+      ],
+      "tags": [
+        "购物",
+        "换货",
+        "颜色",
+        "exchange policy"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：换货；交换",
+        "answer": "exchange"
+      }
+    },
+    {
+      "id": "shopping-vocab-004",
+      "word": "discount",
+      "partOfSpeech": "n.",
+      "meaningZh": "折扣",
+      "exampleEn": "Is there a member discount today?",
+      "exampleZh": "今天有会员折扣吗？",
+      "family": [
+        "discounted",
+        "sale"
+      ],
+      "collocations": [
+        "member discount",
+        "discount code"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "service-counter"
+      ],
+      "tags": [
+        "购物",
+        "折扣",
+        "会员",
+        "member discount"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：折扣",
+        "answer": "discount"
+      }
+    },
+    {
+      "id": "shopping-vocab-005",
+      "word": "membership",
+      "partOfSpeech": "n.",
+      "meaningZh": "会员资格；会员",
+      "exampleEn": "How do I sign up for a membership?",
+      "exampleZh": "我怎么注册会员？",
+      "family": [
+        "member",
+        "member-only"
+      ],
+      "collocations": [
+        "membership card",
+        "membership benefits"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "service-counter"
+      ],
+      "tags": [
+        "购物",
+        "会员",
+        "优惠",
+        "membership benefits"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：会员资格；会员",
+        "answer": "membership"
+      }
+    },
+    {
+      "id": "shopping-vocab-006",
+      "word": "damaged",
+      "partOfSpeech": "adj.",
+      "meaningZh": "损坏的",
+      "exampleEn": "This item seems damaged.",
+      "exampleZh": "这个商品看起来损坏了。",
+      "family": [
+        "damage",
+        "undamaged"
+      ],
+      "collocations": [
+        "damaged item",
+        "damaged package"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "problem-reporting"
+      ],
+      "tags": [
+        "购物",
+        "损坏",
+        "售后",
+        "damaged item"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：损坏的",
+        "answer": "damaged"
+      }
+    },
+    {
+      "id": "shopping-vocab-007",
+      "word": "fitting",
+      "partOfSpeech": "n./adj.",
+      "meaningZh": "试穿；合身的",
+      "exampleEn": "Where is the fitting room?",
+      "exampleZh": "试衣间在哪里？",
+      "family": [
+        "fit",
+        "fitted"
+      ],
+      "collocations": [
+        "fitting room",
+        "fitting issue"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "service-counter"
+      ],
+      "tags": [
+        "购物",
+        "试穿",
+        "试衣间",
+        "fitting room"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：试穿；合身的",
+        "answer": "fitting"
+      }
+    },
+    {
+      "id": "shopping-vocab-008",
+      "word": "material",
+      "partOfSpeech": "n.",
+      "meaningZh": "材料；面料",
+      "exampleEn": "What material is this jacket made of?",
+      "exampleZh": "这件夹克是什么面料的？",
+      "family": [
+        "fabric",
+        "textile"
+      ],
+      "collocations": [
+        "soft material",
+        "waterproof material"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "comparison"
+      ],
+      "tags": [
+        "购物",
+        "面料",
+        "材质",
+        "waterproof material"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：材料；面料",
+        "answer": "material"
+      }
+    },
+    {
+      "id": "shopping-vocab-009",
+      "word": "available",
+      "partOfSpeech": "adj.",
+      "meaningZh": "有货的；可用的",
+      "exampleEn": "Is this color still available?",
+      "exampleZh": "这个颜色还有货吗？",
+      "family": [
+        "availability",
+        "unavailable"
+      ],
+      "collocations": [
+        "available size",
+        "available color"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "service-counter"
+      ],
+      "tags": [
+        "购物",
+        "有货",
+        "颜色",
+        "available color"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：有货的；可用的",
+        "answer": "available"
+      }
+    },
+    {
+      "id": "shopping-vocab-010",
+      "word": "reserve",
+      "partOfSpeech": "v.",
+      "meaningZh": "预留；保留",
+      "exampleEn": "Can you reserve this item until tomorrow?",
+      "exampleZh": "你能把这个商品预留到明天吗？",
+      "family": [
+        "reservation",
+        "reserved"
+      ],
+      "collocations": [
+        "reserve an item",
+        "reserve online"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "polite-request"
+      ],
+      "tags": [
+        "购物",
+        "预留",
+        "商品",
+        "reserve an item"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：预留；保留",
+        "answer": "reserve"
+      }
+    },
+    {
+      "id": "shopping-vocab-011",
+      "word": "policy",
+      "partOfSpeech": "n.",
+      "meaningZh": "政策；规则",
+      "exampleEn": "What is your return policy?",
+      "exampleZh": "你们的退货政策是什么？",
+      "family": [
+        "rule",
+        "guideline"
+      ],
+      "collocations": [
+        "return policy",
+        "exchange policy"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "customer-service"
+      ],
+      "tags": [
+        "购物",
+        "售后",
+        "规则",
+        "return policy"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：政策；规则",
+        "answer": "policy"
+      }
+    },
+    {
+      "id": "shopping-vocab-012",
+      "word": "recommendation",
+      "partOfSpeech": "n.",
+      "meaningZh": "推荐；建议",
+      "exampleEn": "Do you have any recommendations for comfortable shoes?",
+      "exampleZh": "你有舒适鞋子的推荐吗？",
+      "family": [
+        "recommend",
+        "recommended"
+      ],
+      "collocations": [
+        "product recommendation",
+        "personal recommendation"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "comparison"
+      ],
+      "tags": [
+        "购物",
+        "推荐",
+        "比较",
+        "product recommendation"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：推荐；建议",
+        "answer": "recommendation"
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "version": "2026.06.28-003",
+  "version": "2026.06.28-004",
   "product": "Scene English",
   "language": "zh-CN",
   "updatedAt": "2026-06-28",
@@ -158,6 +158,37 @@
       ]
     },
     {
+      "id": "campus-academic-vocabulary-48",
+      "kind": "vocabulary",
+      "title": "校园学习词汇：课堂与作业",
+      "summary": "课堂提问、作业、截止日期、反馈和学术沟通的高频词。",
+      "level": "A2-B1",
+      "unitCount": 12,
+      "url": "materials/vocabulary/campus-academic-vocabulary-48.json",
+      "domains": [
+        "campus",
+        "study",
+        "academic-life"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "academic-communication"
+      ],
+      "tags": [
+        "单词",
+        "校园",
+        "课堂",
+        "作业",
+        "截止日期",
+        "反馈",
+        "学术沟通",
+        "搭配"
+      ]
+    },
+    {
       "id": "family-home-communication",
       "kind": "scenario",
       "title": "家庭场景：日常沟通",
@@ -185,6 +216,37 @@
         "表达关心",
         "家庭沟通",
         "情绪表达"
+      ]
+    },
+    {
+      "id": "family-home-vocabulary-48",
+      "kind": "vocabulary",
+      "title": "家庭沟通词汇：家务与关心",
+      "summary": "家务分工、日程协调、表达关心、道歉和感谢的家庭沟通词。",
+      "level": "A2-B1",
+      "unitCount": 12,
+      "url": "materials/vocabulary/family-home-vocabulary-48.json",
+      "domains": [
+        "family",
+        "home",
+        "relationship"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "emotion-expression"
+      ],
+      "tags": [
+        "单词",
+        "家庭",
+        "家务",
+        "照顾家人",
+        "日程协调",
+        "表达关心",
+        "道歉",
+        "感谢"
       ]
     },
     {
@@ -218,6 +280,37 @@
       ]
     },
     {
+      "id": "career-interview-vocabulary-48",
+      "kind": "vocabulary",
+      "title": "职业发展词汇：面试与成长",
+      "summary": "面试自我介绍、优势表达、成果量化、薪资和职业成长词汇。",
+      "level": "B1-B2",
+      "unitCount": 12,
+      "url": "materials/vocabulary/career-interview-vocabulary-48.json",
+      "domains": [
+        "career",
+        "work",
+        "interview"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "career-output"
+      ],
+      "tags": [
+        "单词",
+        "职业发展",
+        "面试",
+        "优势表达",
+        "成果量化",
+        "薪资",
+        "成长计划",
+        "搭配"
+      ]
+    },
+    {
       "id": "shopping-in-store-service",
       "kind": "scenario",
       "title": "购物场景：门店服务",
@@ -246,6 +339,38 @@
         "会员",
         "收据",
         "服务沟通"
+      ]
+    },
+    {
+      "id": "shopping-service-vocabulary-48",
+      "kind": "vocabulary",
+      "title": "购物服务词汇：门店与售后",
+      "summary": "尺码、试穿、收据、会员、换货、折扣和售后问题处理词汇。",
+      "level": "A2-B1",
+      "unitCount": 12,
+      "url": "materials/vocabulary/shopping-service-vocabulary-48.json",
+      "domains": [
+        "shopping",
+        "life",
+        "customer-service"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "collocation",
+        "service-counter"
+      ],
+      "tags": [
+        "单词",
+        "购物",
+        "门店",
+        "售后",
+        "试穿",
+        "尺码",
+        "收据",
+        "会员",
+        "折扣"
       ]
     },
     {

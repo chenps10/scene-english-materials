@@ -1,0 +1,430 @@
+{
+  "id": "campus-academic-vocabulary-48",
+  "kind": "vocabulary",
+  "title": "校园学习词汇：课堂与作业",
+  "level": "A2-B1",
+  "method": "场景词义 -> 拼写回忆 -> 搭配输出 -> 回到校园表达",
+  "domains": [
+    "campus",
+    "study",
+    "academic-life"
+  ],
+  "skills": [
+    "vocabulary",
+    "spelling",
+    "meaning-recall",
+    "collocation",
+    "academic-communication"
+  ],
+  "tags": [
+    "校园",
+    "课堂",
+    "作业",
+    "学习支持",
+    "老师沟通",
+    "词义",
+    "拼写",
+    "搭配"
+  ],
+  "sources": [
+    "Manual curation linked to campus-study-support; word-family inspiration checked against Open English WordNet and Princeton WordNet."
+  ],
+  "units": [
+    {
+      "id": "campus-vocab-001",
+      "word": "assignment",
+      "partOfSpeech": "n.",
+      "meaningZh": "作业；任务",
+      "exampleEn": "I want to make sure I understand the assignment correctly.",
+      "exampleZh": "我想确认自己正确理解了这个作业要求。",
+      "family": [
+        "assign",
+        "assigned"
+      ],
+      "collocations": [
+        "submit an assignment",
+        "assignment requirement"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "academic-communication"
+      ],
+      "tags": [
+        "校园",
+        "作业",
+        "任务",
+        "assignment requirement"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：作业；任务",
+        "answer": "assignment"
+      }
+    },
+    {
+      "id": "campus-vocab-002",
+      "word": "deadline",
+      "partOfSpeech": "n.",
+      "meaningZh": "截止日期",
+      "exampleEn": "When is the deadline for this project?",
+      "exampleZh": "这个项目的截止日期是什么时候？",
+      "family": [
+        "due date",
+        "time limit"
+      ],
+      "collocations": [
+        "meet a deadline",
+        "extend a deadline"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "time-management"
+      ],
+      "tags": [
+        "校园",
+        "截止日期",
+        "项目",
+        "meet a deadline"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：截止日期",
+        "answer": "deadline"
+      }
+    },
+    {
+      "id": "campus-vocab-003",
+      "word": "extension",
+      "partOfSpeech": "n.",
+      "meaningZh": "延期；延长期",
+      "exampleEn": "Would it be possible to get a short extension?",
+      "exampleZh": "是否可以给我一个短期延期？",
+      "family": [
+        "extend",
+        "extended"
+      ],
+      "collocations": [
+        "request an extension",
+        "short extension"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "polite-request"
+      ],
+      "tags": [
+        "校园",
+        "延期",
+        "礼貌请求",
+        "request an extension"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：延期；延长期",
+        "answer": "extension"
+      }
+    },
+    {
+      "id": "campus-vocab-004",
+      "word": "reference",
+      "partOfSpeech": "n.",
+      "meaningZh": "参考资料；引用",
+      "exampleEn": "Do we need to include references in the paper?",
+      "exampleZh": "论文里需要包含参考文献吗？",
+      "family": [
+        "refer",
+        "referenced"
+      ],
+      "collocations": [
+        "include references",
+        "reference list"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "academic-writing"
+      ],
+      "tags": [
+        "校园",
+        "论文",
+        "参考文献",
+        "reference list"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：参考资料；引用",
+        "answer": "reference"
+      }
+    },
+    {
+      "id": "campus-vocab-005",
+      "word": "feedback",
+      "partOfSpeech": "n.",
+      "meaningZh": "反馈；修改意见",
+      "exampleEn": "Could you give me feedback on my draft?",
+      "exampleZh": "你能给我的草稿一些反馈吗？",
+      "family": [
+        "comment",
+        "suggestion"
+      ],
+      "collocations": [
+        "give feedback",
+        "feedback on a draft"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "asking-for-help"
+      ],
+      "tags": [
+        "校园",
+        "反馈",
+        "草稿",
+        "give feedback"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：反馈；修改意见",
+        "answer": "feedback"
+      }
+    },
+    {
+      "id": "campus-vocab-006",
+      "word": "clarify",
+      "partOfSpeech": "v.",
+      "meaningZh": "澄清；说明清楚",
+      "exampleEn": "Could you clarify the grading criteria?",
+      "exampleZh": "你能说明清楚评分标准吗？",
+      "family": [
+        "clarification",
+        "clear"
+      ],
+      "collocations": [
+        "clarify a point",
+        "ask for clarification"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "clarifying"
+      ],
+      "tags": [
+        "校园",
+        "澄清",
+        "评分标准",
+        "ask for clarification"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：澄清；说明清楚",
+        "answer": "clarify"
+      }
+    },
+    {
+      "id": "campus-vocab-007",
+      "word": "participation",
+      "partOfSpeech": "n.",
+      "meaningZh": "参与；课堂参与",
+      "exampleEn": "Class participation is part of the final grade.",
+      "exampleZh": "课堂参与是最终成绩的一部分。",
+      "family": [
+        "participate",
+        "participant"
+      ],
+      "collocations": [
+        "class participation",
+        "active participation"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "academic-communication"
+      ],
+      "tags": [
+        "校园",
+        "课堂参与",
+        "成绩",
+        "active participation"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：参与；课堂参与",
+        "answer": "participation"
+      }
+    },
+    {
+      "id": "campus-vocab-008",
+      "word": "criteria",
+      "partOfSpeech": "n.",
+      "meaningZh": "标准；评判依据",
+      "exampleEn": "What are the criteria for this presentation?",
+      "exampleZh": "这次展示的评分标准是什么？",
+      "family": [
+        "criterion",
+        "standard"
+      ],
+      "collocations": [
+        "grading criteria",
+        "clear criteria"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "academic-communication"
+      ],
+      "tags": [
+        "校园",
+        "评分标准",
+        "展示",
+        "grading criteria"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：标准；评判依据",
+        "answer": "criteria"
+      }
+    },
+    {
+      "id": "campus-vocab-009",
+      "word": "resource",
+      "partOfSpeech": "n.",
+      "meaningZh": "资源；学习资料",
+      "exampleEn": "Are there any extra resources for this topic?",
+      "exampleZh": "这个主题有没有额外学习资料？",
+      "family": [
+        "source",
+        "resourceful"
+      ],
+      "collocations": [
+        "learning resource",
+        "extra resources"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "asking-for-help"
+      ],
+      "tags": [
+        "校园",
+        "学习资料",
+        "资源",
+        "extra resources"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：资源；学习资料",
+        "answer": "resource"
+      }
+    },
+    {
+      "id": "campus-vocab-010",
+      "word": "revise",
+      "partOfSpeech": "v.",
+      "meaningZh": "修改；复习",
+      "exampleEn": "I need to revise my draft before Friday.",
+      "exampleZh": "我需要在周五前修改草稿。",
+      "family": [
+        "revision",
+        "revised"
+      ],
+      "collocations": [
+        "revise a draft",
+        "revision plan"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "academic-writing"
+      ],
+      "tags": [
+        "校园",
+        "修改",
+        "复习",
+        "revise a draft"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：修改；复习",
+        "answer": "revise"
+      }
+    },
+    {
+      "id": "campus-vocab-011",
+      "word": "presentation",
+      "partOfSpeech": "n.",
+      "meaningZh": "展示；汇报",
+      "exampleEn": "Our group presentation is next week.",
+      "exampleZh": "我们小组的展示在下周。",
+      "family": [
+        "present",
+        "presenter"
+      ],
+      "collocations": [
+        "give a presentation",
+        "group presentation"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "speaking"
+      ],
+      "tags": [
+        "校园",
+        "小组展示",
+        "汇报",
+        "give a presentation"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：展示；汇报",
+        "answer": "presentation"
+      }
+    },
+    {
+      "id": "campus-vocab-012",
+      "word": "tutorial",
+      "partOfSpeech": "n.",
+      "meaningZh": "辅导课；教程",
+      "exampleEn": "Is there a tutorial session before the exam?",
+      "exampleZh": "考试前有辅导课吗？",
+      "family": [
+        "tutor",
+        "tutoring"
+      ],
+      "collocations": [
+        "tutorial session",
+        "online tutorial"
+      ],
+      "skills": [
+        "vocabulary",
+        "spelling",
+        "meaning-recall",
+        "academic-life"
+      ],
+      "tags": [
+        "校园",
+        "辅导课",
+        "考试",
+        "tutorial session"
+      ],
+      "quiz": {
+        "type": "SPELLING",
+        "promptZh": "根据中文写出英文单词：辅导课；教程",
+        "answer": "tutorial"
+      }
+    }
+  ]
+}
